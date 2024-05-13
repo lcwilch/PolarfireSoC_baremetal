@@ -1,0 +1,287 @@
+KEY LIBERO "2024.1"
+KEY CAPTURE "2024.1.0.3"
+KEY DEFAULT_IMPORT_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "SYSTEMVERILOG"
+KEY VHDLMODE "VHDL2008"
+KEY SYSTEMVERILOGMFCU "FALSE"
+KEY UseConstraintFlowTechnology "TRUE"
+KEY VendorTechnology_Family "PolarFireSoC"
+KEY VendorTechnology_Die "PA5SOC025T"
+KEY VendorTechnology_Package "fcvg484"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.0"
+KEY VendorTechnology_PART_RANGE "EXT"
+KEY VendorTechnology_IO_DEFT_STD "LVCMOS18"
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "0"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE "0"
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "PA5SOC025T"
+KEY VendorTechnology_TEMPR "EXT"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.2_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.8_VOLTR "EXT"
+KEY VendorTechnology_VCCI_2.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_3.3_VOLTR "EXT"
+KEY VendorTechnology_VOLTR "EXT"
+KEY ProjectLocation "Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM"
+KEY ProjectDescription ""
+KEY UseRootLocationForLinkedFiles "FALSE"
+KEY RootLocationENVForLinkedFiles ""
+KEY RootLocationForLinkedFiles ""
+KEY GlobalIncludePaths ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY MemoryMapDrcSeverity "FALSE"
+KEY LossOfDataDRCSeverity "TRUE"
+KEY IdWidthMismatchDRCSeverity "TRUE"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "MPFS_eNVM_test::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST GlobalIncludeFileList
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\MPFS_eNVM_test\MPFS_eNVM_test.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715455290"
+SIZE="1808"
+ENDFILE
+VALUE "<project>\component\work\MSS_barebones\MSS_barebones.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715455230"
+SIZE="4433"
+ENDFILE
+VALUE "<project>\component\work\MSS_barebones\MSS_barebones.sdc,sdc"
+STATE="utd"
+TIME="1715455230"
+SIZE="88"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
+TOOL_CONSTRAINT_USE="SYNPLIFY7_EXT"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\MSS_barebones\MSS_barebones.v,hdl"
+STATE="utd"
+TIME="1715455230"
+SIZE="72732"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\MSS_barebones\MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v,hdl"
+STATE="utd"
+TIME="1715455230"
+SIZE="226820"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="826"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="873"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="826"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="873"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="788"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+STATE="utd"
+TIME="1715455230"
+SIZE="873"
+PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "MSS_barebones::work"
+FILE "<project>\component\work\MSS_barebones\MSS_barebones.v,hdl"
+LIST Other_Association
+VALUE "<project>\component\work\MSS_barebones\MSS_barebones.sdc,sdc"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+ENDLIST
+LIST Other_Association
+LIST MSS_barebones
+VALUE "<project>\component\work\MSS_barebones\MSS_barebones.sdc,sdc"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+ENDLIST
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+SdfCorner=slow_lv_ht
+PliPath=C:/Microchip/Libero_SoC_v2024.1/Designer/lib/modelsimpro/pli/pf_crypto_win_me_pli.dll
+UseCustomPliPath=false
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+OnDemandBuildDH=TRUE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=TRUE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+AbortFlowOn3.3V_IO_ON=FALSE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="C:\Microchip\Libero_SoC_v2024.1\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME Pro"
+FUNCTION="Simulation"
+TOOL="ModelSim Pro Edition"
+LOCATION="C:\Microchip\Libero_SoC_v2024.1\ModelSimPro\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="C:\Microchip\Libero_SoC_v2024.1\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Project Summary:MPFS_eNVM.log
+SmartDesign;MPFS_eNVM_test;0
+StartPage;StartPage;0
+ACTIVEVIEW;MPFS_eNVM_test
+ENDLIST
+LIST ModuleSubBlockList
+LIST "MSS::work","component\work\MSS_barebones\MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "MPFS_eNVM_test::work","component\work\MPFS_eNVM_test\MPFS_eNVM_test.cxf","TRUE","FALSE"
+SUBBLOCK "MSS_barebones::work","component\work\MSS_barebones\MSS_barebones.v","TRUE","FALSE"
+ENDLIST
+LIST "MSS_barebones::work","component\work\MSS_barebones\MSS_barebones.v","TRUE","FALSE"
+SUBBLOCK "MSS::work","component\work\MSS_barebones\MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+VALUE "component\work\MSS_barebones\MSS_barebones.sdc"
+ENDLIST
+LIST FDCTabList
+ENDLIST
