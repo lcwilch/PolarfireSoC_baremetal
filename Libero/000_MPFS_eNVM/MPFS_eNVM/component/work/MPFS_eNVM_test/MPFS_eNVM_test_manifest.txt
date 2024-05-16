@@ -1,0 +1,11 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Wed May 15 20:43:40 2024
+Project   :  Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM
+Component :  MPFS_eNVM_test
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    Z:/Projects/PolarfireSoC_baremetal/Libero/000_MPFS_eNVM/MPFS_eNVM/component/work/MPFS_eNVM_test/MPFS_eNVM_test.v
+

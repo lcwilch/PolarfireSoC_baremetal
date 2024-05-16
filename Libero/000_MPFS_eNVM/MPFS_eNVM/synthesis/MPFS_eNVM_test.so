@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SynplifyOutput>
+	<result>Success</result>
+	<design>MPFS_eNVM_test</design>
+	<target_verilog>Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM\synthesis\MPFS_eNVM_test.vm</target_verilog>
+</SynplifyOutput>

@@ -1,6 +1,7 @@
 KEY LIBERO "2024.1"
 KEY CAPTURE "2024.1.0.3"
 KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
 KEY ProjectID "0"
 KEY HDLTechnology "VERILOG"
 KEY VERILOGMODE "SYSTEMVERILOG"
@@ -13,8 +14,12 @@ KEY VendorTechnology_Package "fcvg484"
 KEY VendorTechnology_Speed "STD"
 KEY VendorTechnology_DieVoltage "1.0"
 KEY VendorTechnology_PART_RANGE "EXT"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
 KEY VendorTechnology_IO_DEFT_STD "LVCMOS18"
-KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "0"
 KEY VendorTechnology_RESTRICTPROBEPINS "0"
 KEY VendorTechnology_RESTRICTSPIPINS "0"
 KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE "0"
@@ -47,10 +52,23 @@ ENDLIST
 LIST GlobalIncludeFileList
 ENDLIST
 LIST FileManager
+VALUE "<project>\component\Microsemi\SgCore\PFSOC_INIT_MONITOR\1.0.307\PFSOC_INIT_MONITOR.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715819593"
+SIZE="295"
+PARENT="<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.cxf"
+ENDFILE
 VALUE "<project>\component\work\MPFS_eNVM_test\MPFS_eNVM_test.cxf,actgen_cxf"
 STATE="utd"
-TIME="1715455290"
-SIZE="1808"
+TIME="1715820221"
+SIZE="2448"
+ENDFILE
+VALUE "<project>\component\work\MPFS_eNVM_test\MPFS_eNVM_test.v,hdl"
+STATE="utd"
+TIME="1715820221"
+SIZE="2566"
+PARENT="<project>\component\work\MPFS_eNVM_test\MPFS_eNVM_test.cxf"
+IS_READONLY="TRUE"
 ENDFILE
 VALUE "<project>\component\work\MSS_barebones\MSS_barebones.cxf,actgen_cxf"
 STATE="utd"
@@ -82,6 +100,41 @@ TIME="1715455230"
 SIZE="226820"
 PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
 IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PFSOC_INIT_MONITOR_C0\PFSOC_INIT_MONITOR_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715819221"
+SIZE="679"
+ENDFILE
+VALUE "<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715819594"
+SIZE="8367"
+ENDFILE
+VALUE "<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.v,hdl"
+STATE="utd"
+TIME="1715819593"
+SIZE="9237"
+PARENT="<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1_0\PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.cxf,actgen_cxf"
+STATE="utd"
+TIME="1715819593"
+SIZE="551"
+PARENT="<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.cxf"
+ENDFILE
+VALUE "<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1_0\PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.v,hdl"
+STATE="utd"
+TIME="1715819593"
+SIZE="2867"
+PARENT="<project>\component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1_0\PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\constraint\MPFS_eNVM_test_derived_constraints.sdc,sdc"
+STATE="utd"
+TIME="1715820250"
+SIZE="339"
 ENDFILE
 VALUE "<project>\simulation\MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
 STATE="utd"
@@ -119,10 +172,54 @@ TIME="1715455230"
 SIZE="873"
 PARENT="<project>\component\work\MSS_barebones\MSS_barebones.cxf"
 ENDFILE
+VALUE "<project>\synthesis\MPFS_eNVM_test.so,so"
+STATE="utd"
+TIME="1715820270"
+SIZE="268"
+ENDFILE
+VALUE "<project>\synthesis\MPFS_eNVM_test.vm,syn_vm"
+STATE="utd"
+TIME="1715820269"
+SIZE="83360"
+ENDFILE
+VALUE "<project>\synthesis\MPFS_eNVM_test_syn.prj,prj"
+STATE="utd"
+TIME="1715820270"
+SIZE="3786"
+ENDFILE
+VALUE "<project>\synthesis\MPFS_eNVM_test_vm.sdc,syn_sdc"
+STATE="utd"
+TIME="1715820269"
+SIZE="805"
+ENDFILE
 ENDLIST
 LIST UsedFile
 ENDLIST
 LIST NewModulesInfo
+LIST "MPFS_eNVM_test::work"
+FILE "<project>\component\work\MPFS_eNVM_test\MPFS_eNVM_test.v,hdl"
+LIST SynthesisConstraints
+VALUE "<project>\constraint\MPFS_eNVM_test_derived_constraints.sdc,sdc"
+ENDLIST
+LIST TimingConstraints
+VALUE "<project>\constraint\MPFS_eNVM_test_derived_constraints.sdc,sdc"
+ENDLIST
+LIST PNRConstraints
+VALUE "<project>\constraint\MPFS_eNVM_test_derived_constraints.sdc,sdc"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSYNTHESIS(<project>\synthesis\MPFS_eNVM_test.vm,syn_vm)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
 LIST "MSS_barebones::work"
 FILE "<project>\component\work\MSS_barebones\MSS_barebones.v,hdl"
 LIST Other_Association
@@ -245,6 +342,18 @@ IS32BIT="1"
 EndProfile
 ENDLIST
 LIST ProjectState5.1
+LIST "MPFS_eNVM_test::work"
+LIST Impl1
+ideSYNTHESIS(<project>\synthesis\MPFS_eNVM_test.vm,syn_vm)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
 ENDLIST
 LIST ExcludePackageForSimulation
 ENDLIST
@@ -258,20 +367,23 @@ LIST UserCustomizedFileList
 ENDLIST
 LIST OpenedFileList
 ORIENTATION;HORIZONTAL
-Reports;Reports;0
-ReportsCurrentItem;Project Summary:MPFS_eNVM.log
-SmartDesign;MPFS_eNVM_test;0
 StartPage;StartPage;0
-ACTIVEVIEW;MPFS_eNVM_test
+ACTIVEVIEW;StartPage
 ENDLIST
 LIST ModuleSubBlockList
 LIST "MSS::work","component\work\MSS_barebones\MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
 ENDLIST
-LIST "MPFS_eNVM_test::work","component\work\MPFS_eNVM_test\MPFS_eNVM_test.cxf","TRUE","FALSE"
+LIST "MPFS_eNVM_test::work","component\work\MPFS_eNVM_test\MPFS_eNVM_test.v","TRUE","FALSE"
 SUBBLOCK "MSS_barebones::work","component\work\MSS_barebones\MSS_barebones.v","TRUE","FALSE"
+SUBBLOCK "PFSOC_INIT_MONITOR_C1::work","component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.v","TRUE","FALSE"
 ENDLIST
 LIST "MSS_barebones::work","component\work\MSS_barebones\MSS_barebones.v","TRUE","FALSE"
 SUBBLOCK "MSS::work","component\work\MSS_barebones\MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "PFSOC_INIT_MONITOR_C1::work","component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1.v","TRUE","FALSE"
+SUBBLOCK "PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR::work","component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1_0\PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.v","FALSE","FALSE"
+ENDLIST
+LIST "PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR::work","component\work\PFSOC_INIT_MONITOR_C1\PFSOC_INIT_MONITOR_C1_0\PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.v","FALSE","FALSE"
 ENDLIST
 ENDLIST
 LIST ActiveTestBenchList
@@ -281,6 +393,7 @@ ENDLIST
 LIST FPTabList
 ENDLIST
 LIST TimingTabList
+VALUE "constraint\MPFS_eNVM_test_derived_constraints.sdc"
 VALUE "component\work\MSS_barebones\MSS_barebones.sdc"
 ENDLIST
 LIST FDCTabList

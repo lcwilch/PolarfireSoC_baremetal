@@ -1,0 +1,12 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Wed May 15 20:33:13 2024
+Project   :  Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM
+Component :  PFSOC_INIT_MONITOR_C1
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    Z:/Projects/PolarfireSoC_baremetal/Libero/000_MPFS_eNVM/MPFS_eNVM/component/work/PFSOC_INIT_MONITOR_C1/PFSOC_INIT_MONITOR_C1_0/PFSOC_INIT_MONITOR_C1_PFSOC_INIT_MONITOR_C1_0_PFSOC_INIT_MONITOR.v
+    Z:/Projects/PolarfireSoC_baremetal/Libero/000_MPFS_eNVM/MPFS_eNVM/component/work/PFSOC_INIT_MONITOR_C1/PFSOC_INIT_MONITOR_C1.v
+

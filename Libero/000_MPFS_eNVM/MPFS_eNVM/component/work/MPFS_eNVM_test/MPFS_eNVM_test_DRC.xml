@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>MPFS_eNVM_test</header>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin MSS_barebones_0:PLL_CPU_LOCK_M2F</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/MSS_barebones_0:PLL_CPU_LOCK_M2F</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:FABRIC_POR_N</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:FABRIC_POR_N</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:PCIE_INIT_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:PCIE_INIT_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:BANK_0_CALIB_STATUS</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:BANK_0_CALIB_STATUS</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:BANK_1_CALIB_STATUS</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:BANK_1_CALIB_STATUS</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:XCVR_INIT_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:XCVR_INIT_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_SNVM_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_SNVM_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_UPROM_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_UPROM_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_SPI_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:USRAM_INIT_FROM_SPI_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_SNVM_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_SNVM_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_UPROM_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_UPROM_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_SPI_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:SRAM_INIT_FROM_SPI_DONE</crossprobe>
+  </drc>
+  <drc>
+    <status>C:\Microchip\Libero_SoC_v2024.1\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin PFSOC_INIT_MONITOR_C1_0:AUTOCALIB_DONE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/MPFS_eNVM_test/pins/PFSOC_INIT_MONITOR_C1_0:AUTOCALIB_DONE</crossprobe>
+  </drc>
+</drcreport>

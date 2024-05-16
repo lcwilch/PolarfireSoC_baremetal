@@ -1,0 +1,28 @@
+# Microchip NMAT TXT File
+
+# Version: 2024.1 2024.1.0.3
+
+# Design Name: MPFS_eNVM_test 
+
+# Input Netlist Format: EDIF 
+
+# Family: PolarFireSoC , Die: MPFS025T , Package: FCVG484 , Speed grade: STD 
+
+# Date generated: Wed May 15 20:47:35 2024 
+
+
+#
+# I/O constraints
+#
+
+set_io LED Y21
+set_io REFCLK L7
+set_io REFCLK_N L8
+
+#
+# Core cell constraints
+#
+
+set_location PFSOC_INIT_MONITOR_C1_0/PFSOC_INIT_MONITOR_C1_0/I_BCTRL_HSIO_0 1012 215
+set_location MSS_barebones_0/I_MSS 737 215
+set_location PFSOC_INIT_MONITOR_C1_0/PFSOC_INIT_MONITOR_C1_0/I_INIT 652 5
