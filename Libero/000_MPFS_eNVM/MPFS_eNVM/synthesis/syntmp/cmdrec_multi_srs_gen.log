@@ -1,7 +1,0 @@
-C:\Microchip\Libero_SoC_v2024.1\SynplifyPro\bin64\syn_nfilter.exe  -link  -top  MPFS_eNVM_test  -multisrs  Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM\synthesis\synwork\MPFS_eNVM_test_comp.srs  -osyn  Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM\synthesis\synwork\MPFS_eNVM_test_mult.srs  -log  Z:\Projects\PolarfireSoC_baremetal\Libero\000_MPFS_eNVM\MPFS_eNVM\synthesis\synlog\MPFS_eNVM_test_multi_srs_gen.srr 
-relcom:C:\Microchip\Libero_SoC_v2024.1\SynplifyPro\bin64\syn_nfilter.exe -link -top MPFS_eNVM_test -multisrs ..\synwork\MPFS_eNVM_test_comp.srs -osyn ..\synwork\MPFS_eNVM_test_mult.srs -log ..\synlog\MPFS_eNVM_test_multi_srs_gen.srr
-rc:0 success:1 runtime:1
-file:..\synwork\mpfs_envm_test_comp.srs|io:i|time:1715820263|size:135284|exec:0|csum:C9964037DC10295C2AE9BAA967A90029
-file:..\synwork\mpfs_envm_test_mult.srs|io:o|time:1715820265|size:2930|exec:0|csum:
-file:..\synlog\mpfs_envm_test_multi_srs_gen.srr|io:o|time:1715820265|size:1198|exec:0|csum:
-file:c:\microchip\libero_soc_v2024.1\synplifypro\bin64\syn_nfilter.exe|io:i|time:1704385664|size:10549248|exec:1|csum:0A08FED8FB1594556EFD70D403F152B0

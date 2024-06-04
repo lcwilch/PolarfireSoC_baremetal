@@ -1,0 +1,150 @@
+Compile Report
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+Date: Mon Jun  3 21:53:34 2024
+
+Device Selection
++------------------------+--------------+
+| Family                 | PolarFireSoC |
+| Device                 | MPFS025T     |
+| Package                | FCVG484      |
+| Speed Grade            | STD          |
+| Core Voltage           | 1.0V         |
+| Part Range             | EXT          |
+| Default I/O technology | LVCMOS 1.8V  |
++------------------------+--------------+
+
+Source Files
++---------+-----------------------------------------------------------------------------------------------+
+| Topcell | blinky_sd                                                                                     |
+| Format  | Verilog                                                                                       |
+| Source  | /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/blinky_sd.vm |
++---------+-----------------------------------------------------------------------------------------------+
+
+Options
++----------------------------------------------------+----+
+| Limit the number of high fanout nets to display to | 10 |
++----------------------------------------------------+----+
+
+Resource Usage
++---------------------------+------+-------+------------+
+| Type                      | Used | Total | Percentage |
++---------------------------+------+-------+------------+
+| 4LUT                      | 30   | 22956 | 0.13       |
+| DFF                       | 41   | 22956 | 0.18       |
+| I/O Register              | 0    | 324   | 0.00       |
+| User I/O                  | 12   | 108   | 11.11      |
+| -- Single-ended I/O       | 12   | 108   | 11.11      |
+| -- Differential I/O Pairs | 0    | 54    | 0.00       |
+| uSRAM                     | 0    | 204   | 0.00       |
+| LSRAM                     | 0    | 84    | 0.00       |
+| Math                      | 0    | 68    | 0.00       |
+| H-Chip Global             | 2    | 24    | 8.33       |
+| PLL                       | 1    | 8     | 12.50      |
+| DLL                       | 0    | 8     | 0.00       |
+| CRN_INT                   | 1    | 24    | 4.17       |
+| OSC_RC160MHZ              | 1    | 1     | 100.00     |
+| Transceiver Lanes         | 0    | 4     | 0.00       |
+| Transceiver PCIe          | 0    | 2     | 0.00       |
+| ICB_CLKINT                | 2    | 44    | 4.55       |
+| MSS                       | 0    | 1     | 0.00       |
++---------------------------+------+-------+------------+
+
+Detailed Logic Resource Usage
++-----------------------+------+-----+
+| Type                  | 4LUT | DFF |
++-----------------------+------+-----+
+| Fabric Logic          | 30   | 41  |
+| uSRAM Interface Logic | 0    | 0   |
+| LSRAM Interface Logic | 0    | 0   |
+| Math Interface Logic  | 0    | 0   |
+| Total Used            | 30   | 41  |
++-----------------------+------+-----+
+
+Detailed Carry Chains Resource Usage
++--------+------+
+| Length | Used |
+| 29     | 1    |
+| Total  | 1    |
++--------+------+
+
+I/O Function
++-------------------------------+--------------+-------------+-----------------+
+| Type                          | w/o register | w/ register | w/ DDR register |
++-------------------------------+--------------+-------------+-----------------+
+| Input I/O                     | 0            | 0           | 0               |
+| Output I/O                    | 12           | 0           | 0               |
+| Bidirectional I/O             | 0            | 0           | 0               |
+| Differential Input I/O Pairs  | 0            | 0           | 0               |
+| Differential Output I/O Pairs | 0            | 0           | 0               |
++-------------------------------+--------------+-------------+-----------------+
+
+Nets assigned to chip global resources
++--------+---------+-------------------------------------------------------+
+| Fanout | Type    | Name                                                  |
++--------+---------+-------------------------------------------------------+
+| 41     | INT_NET | Net   : PF_CCC_C0_0_OUT0_FABCLK_0                     |
+|        |         | Driver: PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1      |
+|        |         | Source: NETLIST                                       |
+| 1      | INT_NET | Net   : PF_OSC_C0_0_RCOSC_160MHZ_GL                   |
+|        |         | Driver: PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT/U0_RGB1 |
+|        |         | Source: NETLIST                                       |
++--------+---------+-------------------------------------------------------+
+
+Nets assigned to row global resources
++--------+------+------+
+| Fanout | Type | Name |
++--------+------+------+
++--------+------+------+
+
+High fanout nets
++--------+---------+--------------------------------+
+| Fanout | Type    | Name                           |
++--------+---------+--------------------------------+
+| 2      | INT_NET | Net   : blinky_0/counter_Z[28] |
+|        |         | Driver: blinky_0/counter[28]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[27] |
+|        |         | Driver: blinky_0/counter[27]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[26] |
+|        |         | Driver: blinky_0/counter[26]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[25] |
+|        |         | Driver: blinky_0/counter[25]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[24] |
+|        |         | Driver: blinky_0/counter[24]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[23] |
+|        |         | Driver: blinky_0/counter[23]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[22] |
+|        |         | Driver: blinky_0/counter[22]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[21] |
+|        |         | Driver: blinky_0/counter[21]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[20] |
+|        |         | Driver: blinky_0/counter[20]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[19] |
+|        |         | Driver: blinky_0/counter[19]   |
++--------+---------+--------------------------------+
+
+High fanout nets (through buffer trees)
++--------+---------+--------------------------------+
+| Fanout | Type    | Name                           |
++--------+---------+--------------------------------+
+| 2      | INT_NET | Net   : blinky_0/counter_Z[28] |
+|        |         | Driver: blinky_0/counter[28]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[27] |
+|        |         | Driver: blinky_0/counter[27]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[26] |
+|        |         | Driver: blinky_0/counter[26]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[25] |
+|        |         | Driver: blinky_0/counter[25]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[24] |
+|        |         | Driver: blinky_0/counter[24]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[23] |
+|        |         | Driver: blinky_0/counter[23]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[22] |
+|        |         | Driver: blinky_0/counter[22]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[21] |
+|        |         | Driver: blinky_0/counter[21]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[20] |
+|        |         | Driver: blinky_0/counter[20]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[19] |
+|        |         | Driver: blinky_0/counter[19]   |
++--------+---------+--------------------------------+
+

@@ -1,0 +1,1 @@
+@W: MT246 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":13:17:13:25|Blackbox OSC_RC160MHZ is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)

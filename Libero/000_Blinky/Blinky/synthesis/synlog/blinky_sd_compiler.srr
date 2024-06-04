@@ -1,0 +1,361 @@
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09M
+Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
+OS: Ubuntu 22.04.4 LTS
+Hostname: SER7-22
+max virtual memory: unlimited (bytes)
+max user processes: 110736
+max stack size: 8388608 (bytes)
+
+
+Implementation : synthesis
+Synopsys HDL Compiler, Version comp202309synp1, Build 146R, Built Jan  4 2024 08:24:09, @5131170
+
+@N|Running in 64-bit mode
+###########################################################[
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09M
+Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
+OS: Ubuntu 22.04.4 LTS
+Hostname: SER7-22
+max virtual memory: unlimited (bytes)
+max user processes: 110736
+max stack size: 8388608 (bytes)
+
+
+Implementation : synthesis
+Synopsys Verilog Compiler, Version comp202309synp1, Build 146R, Built Jan  4 2024 08:24:09, @5131170
+
+@N|Running in 64-bit mode
+@N: CG1349 :	| Running Verilog Compiler in System Verilog mode
+
+@I::"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v" (library work)
+@I::"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/hypermods.v" (library __hyper__lib__)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v" (library work)
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":21:13:21:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":61:13:61:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":88:13:88:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":118:13:118:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":168:13:168:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":213:13:213:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":232:13:232:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":281:13:281:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":335:13:335:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":657:13:657:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":761:13:761:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":795:13:795:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1059:13:1059:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1369:13:1369:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1396:13:1396:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1441:13:1441:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1474:13:1474:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1492:13:1492:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1518:13:1518:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1559:13:1559:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1581:13:1581:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1599:13:1599:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1616:13:1616:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1635:13:1635:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1652:13:1652:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1681:13:1681:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1712:13:1712:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1802:13:1802:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2026:13:2026:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2187:13:2187:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2203:13:2203:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2219:13:2219:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2235:13:2235:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2267:13:2267:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2648:13:2648:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3661:13:3661:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3732:13:3732:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3861:13:3861:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3879:13:3879:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3896:13:3896:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3911:13:3911:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3926:13:3926:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3953:13:3953:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4067:13:4067:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4098:13:4098:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4144:13:4144:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4255:13:4255:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4439:13:4439:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4480:13:4480:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4506:13:4506:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4523:13:4523:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":4600:13:4600:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":5364:13:5364:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":6174:13:6174:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":6283:13:6283:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":6321:13:6321:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":6394:13:6394:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":7283:13:7283:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":8340:13:8340:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":9299:13:9299:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10035:13:10035:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10750:13:10750:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10784:13:10784:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10820:13:10820:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10867:13:10867:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":10901:13:10901:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":11767:13:11767:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":12810:13:12810:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":12822:15:12822:27|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":12833:13:12833:25|User defined pragma syn_black_box detected
+
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":12846:13:12846:25|User defined pragma syn_black_box detected
+
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v" (library work)
+@W: CG100 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v":798:13:798:25|User defined pragma syn_black_box detected
+
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_barebones.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v" (library work)
+@I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v" (library work)
+@N|stack limit increased to max
+Verilog syntax check successful!
+Selecting top level module blinky_sd
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":1:7:1:12|Synthesizing module blinky in library work.
+Running optimization stage 1 on blinky .......
+Finished optimization stage 1 on blinky (CPU Time 0h:00m:00s, Memory Used current: 191MB peak: 191MB)
+@N: CG364 :"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v":357:7:357:16|Synthesizing module INBUF_DIFF in library work.
+Running optimization stage 1 on INBUF_DIFF .......
+Finished optimization stage 1 on INBUF_DIFF (CPU Time 0h:00m:00s, Memory Used current: 192MB peak: 192MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v":5:7:5:9|Synthesizing module MSS in library work.
+Running optimization stage 1 on MSS .......
+Finished optimization stage 1 on MSS (CPU Time 0h:00m:00s, Memory Used current: 194MB peak: 194MB)
+@N: CG364 :"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v":504:7:504:9|Synthesizing module VCC in library work.
+Running optimization stage 1 on VCC .......
+Finished optimization stage 1 on VCC (CPU Time 0h:00m:00s, Memory Used current: 194MB peak: 194MB)
+@N: CG364 :"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v":500:7:500:9|Synthesizing module GND in library work.
+Running optimization stage 1 on GND .......
+Finished optimization stage 1 on GND (CPU Time 0h:00m:00s, Memory Used current: 194MB peak: 194MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_barebones.v":5:7:5:19|Synthesizing module MSS_barebones in library work.
+Running optimization stage 1 on MSS_barebones .......
+Finished optimization stage 1 on MSS_barebones (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v":489:7:489:12|Synthesizing module CLKINT in library work.
+Running optimization stage 1 on CLKINT .......
+Finished optimization stage 1 on CLKINT (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v":37:12:37:21|Type of parameter VCOFREQUENCY on the instance pll_inst_0 is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":3694:7:3694:9|Synthesizing module PLL in library work.
+Running optimization stage 1 on PLL .......
+Finished optimization stage 1 on PLL (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v":5:7:5:34|Synthesizing module PF_CCC_C0_PF_CCC_C0_0_PF_CCC in library work.
+Running optimization stage 1 on PF_CCC_C0_PF_CCC_C0_0_PF_CCC .......
+Finished optimization stage 1 on PF_CCC_C0_PF_CCC_C0_0_PF_CCC (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0.v":264:7:264:15|Synthesizing module PF_CCC_C0 in library work.
+Running optimization stage 1 on PF_CCC_C0 .......
+Finished optimization stage 1 on PF_CCC_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":2199:7:2199:18|Synthesizing module OSC_RC160MHZ in library work.
+Running optimization stage 1 on OSC_RC160MHZ .......
+Finished optimization stage 1 on OSC_RC160MHZ (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":5:7:5:34|Synthesizing module PF_OSC_C0_PF_OSC_C0_0_PF_OSC in library work.
+Running optimization stage 1 on PF_OSC_C0_PF_OSC_C0_0_PF_OSC .......
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":15:8:15:15|Removing instance gnd_inst because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+Finished optimization stage 1 on PF_OSC_C0_PF_OSC_C0_0_PF_OSC (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0.v":27:7:27:15|Synthesizing module PF_OSC_C0 in library work.
+Running optimization stage 1 on PF_OSC_C0 .......
+Finished optimization stage 1 on PF_OSC_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":40:53:40:58|Type of parameter FABRIC_POR_N_SIMULATION_DELAY on the instance I_INIT is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":40:53:40:58|Type of parameter PCIE_INIT_DONE_SIMULATION_DELAY on the instance I_INIT is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":40:53:40:58|Type of parameter SRAM_INIT_DONE_SIMULATION_DELAY on the instance I_INIT is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":40:53:40:58|Type of parameter UIC_INIT_DONE_SIMULATION_DELAY on the instance I_INIT is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@W: CG168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":40:53:40:58|Type of parameter USRAM_INIT_DONE_SIMULATION_DELAY on the instance I_INIT is not in accordance with the type of parameter on corresponding module. Please update RTL with correct parameter type 
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1702:7:1702:10|Synthesizing module INIT in library work.
+Running optimization stage 1 on INIT .......
+Finished optimization stage 1 on INIT (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":6:8:6:71|Synthesizing module PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR in library work.
+Running optimization stage 1 on PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR .......
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":50:8:50:15|Removing instance gnd_inst because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":49:8:49:15|Removing instance vcc_inst because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+Finished optimization stage 1 on PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v":71:7:71:27|Synthesizing module PFSOC_INIT_MONITOR_C0 in library work.
+Running optimization stage 1 on PFSOC_INIT_MONITOR_C0 .......
+Finished optimization stage 1 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+@N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":9:7:9:15|Synthesizing module blinky_sd in library work.
+Running optimization stage 1 on blinky_sd .......
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":79:22:79:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":53:14:53:28|Removing instance MSS_barebones_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+Finished optimization stage 1 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on blinky_sd .......
+@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":20:14:20:19|Input REFCLK is unused.
+@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":21:14:21:21|Input REFCLK_N is unused.
+Finished optimization stage 2 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PFSOC_INIT_MONITOR_C0 .......
+Finished optimization stage 2 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR .......
+Finished optimization stage 2 on PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on INIT .......
+Finished optimization stage 2 on INIT (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PF_OSC_C0 .......
+Finished optimization stage 2 on PF_OSC_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PF_OSC_C0_PF_OSC_C0_0_PF_OSC .......
+Finished optimization stage 2 on PF_OSC_C0_PF_OSC_C0_0_PF_OSC (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on OSC_RC160MHZ .......
+Finished optimization stage 2 on OSC_RC160MHZ (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PF_CCC_C0 .......
+Finished optimization stage 2 on PF_CCC_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PF_CCC_C0_PF_CCC_C0_0_PF_CCC .......
+Finished optimization stage 2 on PF_CCC_C0_PF_CCC_C0_0_PF_CCC (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on PLL .......
+Finished optimization stage 2 on PLL (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on CLKINT .......
+Finished optimization stage 2 on CLKINT (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on MSS_barebones .......
+Finished optimization stage 2 on MSS_barebones (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on GND .......
+Finished optimization stage 2 on GND (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on VCC .......
+Finished optimization stage 2 on VCC (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on MSS .......
+Finished optimization stage 2 on MSS (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on INBUF_DIFF .......
+Finished optimization stage 2 on INBUF_DIFF (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+Running optimization stage 2 on blinky .......
+Finished optimization stage 2 on blinky (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
+
+For a summary of runtime per design unit, please see file:
+==========================================================
+@L: /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/layer0.duruntime
+
+
+
+At c_ver Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 195MB peak: 195MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Jun  3 21:53:29 2024
+
+###########################################################]
+###########################################################[
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09M
+Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
+OS: Ubuntu 22.04.4 LTS
+Hostname: SER7-22
+max virtual memory: unlimited (bytes)
+max user processes: 110736
+max stack size: 8388608 (bytes)
+
+
+Implementation : synthesis
+Synopsys Synopsys Netlist Linker, Version comp202309synp1, Build 146R, Built Jan  4 2024 08:24:09, @5131170
+
+@N|Running in 64-bit mode
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 186MB peak: 186MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Jun  3 21:53:29 2024
+
+###########################################################]
+
+For a summary of runtime and memory usage for all design units, please see file:
+==========================================================
+@L: /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/blinky_sd_comp.rt.csv
+
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 37MB peak: 37MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Jun  3 21:53:29 2024
+
+###########################################################]

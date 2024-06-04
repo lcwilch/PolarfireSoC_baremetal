@@ -1,0 +1,16 @@
+@P:  Worst Slack : 92.359
+@P:  PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0 - Estimated Frequency : 650.3 MHz
+@P:  PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0 - Requested Frequency : 10.7 MHz
+@P:  PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0 - Estimated Period : 1.538
+@P:  PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0 - Requested Period : 93.897
+@P:  PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0 - Slack : 92.359
+@P:  osc_rc160mhz - Estimated Frequency : NA
+@P:  osc_rc160mhz - Requested Frequency : 170.4 MHz
+@P:  osc_rc160mhz - Estimated Period : NA
+@P:  osc_rc160mhz - Requested Period : 5.869
+@P:  osc_rc160mhz - Slack : NA
+@P: blinky_sd Part : mpfs025tfcvg484std
+@P: blinky_sd Register bits  : 41 
+@P: blinky_sd DSP Blocks  : 0
+@P: blinky_sd I/O primitives : 12
+@P:  CPU Time : 0h:00m:00s

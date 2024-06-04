@@ -1,0 +1,11 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
+
+Date      :  Mon Jun  3 21:53:11 2024
+Project   :  /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky
+Component :  blinky_sd
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v
+
