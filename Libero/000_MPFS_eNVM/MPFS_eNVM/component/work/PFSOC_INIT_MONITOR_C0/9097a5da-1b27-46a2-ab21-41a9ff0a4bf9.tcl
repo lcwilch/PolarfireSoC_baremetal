@@ -1,1 +1,0 @@
-dump -infile "Z:/Projects/PolarfireSoC_baremetal/Libero/000_MPFS_eNVM/MPFS_eNVM/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.sdb" -outDir "Z:/Projects/PolarfireSoC_baremetal/Libero/000_MPFS_eNVM/MPFS_eNVM/component/work/PFSOC_INIT_MONITOR_C0/c9536d4d-34e9-47ae-b90a-481a2496777d"

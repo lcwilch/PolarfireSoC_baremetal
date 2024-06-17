@@ -1,0 +1,16 @@
+Software Version: 2024.1.0.3
+Opened '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/blinky_sd_fp/blinky_sd.pro'
+PDB file '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/blinky_sd.pdb' has been loaded successfully.
+DESIGN : blinky_sd;  CHECKSUM : 2202;  PDB_VERSION : 1.9
+Info: Programming Interface selected is JTAG.
+File/Folder '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/blinky_sd.ppd' will be overwritten.
+Successfully exported PPD file for currently secured device: '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/blinky_sd.ppd'; file programs Fabric and sNVM.
+BITS component bitstream digest: 743c84a51bb8f09c698540b2227ead42bbe263b008451c7bc9a18da54c0d78e5
+Fabric component bitstream digest: 702ee0d6c90ec4a0148b5f9309983cb1a349f17fda84f83c0835862f3287fc47
+sNVM component bitstream digest: b0a9e2be29f47fa951a6a131a8dd9a9016e5ba87de5833c742b7f654428ea6e7
+EOB component bitstream digest: b2c3a4dc204d558fb7ac422b952b1e790d6e6e38056e5a2dd82a0ec6f95ecdb4
+Entire bitstream digest: 0dc009696f0c2fb7d05c5855b6fa7d9cfab116be842491d79a550d91e974e791
+Finished: Mon Jun  3 21:56:09 2024 (Elapsed time 00:00:07)
+
+Project saved.
+Project closed.

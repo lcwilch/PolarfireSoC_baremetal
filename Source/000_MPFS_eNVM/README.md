@@ -17,8 +17,10 @@ Flash MPFS with bitstream and eNVM image (in boot mode 1)
 Generate .hex (intel hex) file
     RISC-V toolchain installed in ubuntu VM
     Linker script created
-    Makefile created
+        Must consider RISC-V specific items
     Source created
+        Must write statup section for RISC-V
+    Makefile created
 
 Configure barebones MSS using MSS configurator
 

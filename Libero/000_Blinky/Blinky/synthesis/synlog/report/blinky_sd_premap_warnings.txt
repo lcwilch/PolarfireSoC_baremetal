@@ -1,0 +1,2 @@
+@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:9|User-specified initial value defined for instance blinky_0.counter[28:0] is being ignored due to limitations in architecture. 
+@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:9|User-specified initial value defined for instance blinky_0.ledsState[14:3] is being ignored due to limitations in architecture. 
