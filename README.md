@@ -6,6 +6,9 @@ https://www.beagleboard.org/boards/beaglev-fire
 # Docs:
 MPFS, RISCV documents
 
+# KiCad:
+Any PCBs needed to support development (i.e. J-Link to Flashpro JTAG pinout adapter)
+
 # Libero:
 MSS Configurator and Libero Projects for configuring MPFS HW
 
