@@ -10,7 +10,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -31,7 +31,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -263,8 +263,11 @@ Finished optimization stage 1 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Mem
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":9:7:9:15|Synthesizing module blinky_sd in library work.
 Running optimization stage 1 on blinky_sd .......
 @W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":88:22:88:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":62:14:62:28|Removing instance MSS_barebones_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
 Finished optimization stage 1 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on blinky_sd .......
+@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":20:14:20:19|Input REFCLK is unused.
+@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":21:14:21:21|Input REFCLK_N is unused.
 Finished optimization stage 2 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on PFSOC_INIT_MONITOR_C0 .......
 Finished optimization stage 2 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
@@ -310,7 +313,7 @@ At c_ver Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Sat Jun 22 08:00:07 2024
+# Sat Jun 22 12:26:38 2024
 
 ###########################################################]
 ###########################################################[
@@ -326,7 +329,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -336,12 +339,12 @@ Synopsys Synopsys Netlist Linker, Version comp202309synp1, Build 146R, Built Jan
 @N|Running in 64-bit mode
 File /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/layer0.srs changed - recompiling
 
-At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 191MB peak: 191MB)
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 186MB peak: 186MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Sat Jun 22 08:00:07 2024
+# Sat Jun 22 12:26:38 2024
 
 ###########################################################]
 
@@ -356,6 +359,6 @@ At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Sat Jun 22 08:00:07 2024
+# Sat Jun 22 12:26:38 2024
 
 ###########################################################]

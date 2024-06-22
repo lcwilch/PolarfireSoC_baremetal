@@ -1,4 +1,4 @@
-# Sat Jun 22 08:00:09 2024
+# Sat Jun 22 12:26:39 2024
 
 
 Copyright (C) 1994-2023 Synopsys, Inc.
@@ -12,7 +12,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -51,20 +51,20 @@ NConnInternalConnection caching is on
 @W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|User-specified initial value defined for instance blinky_0.ledsState[14:3] is being ignored due to limitations in architecture. 
 @W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|User-specified initial value defined for instance blinky_0.counter[28:0] is being ignored due to limitations in architecture. 
 
-Starting HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Starting HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Finished HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Started DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Started DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Finished DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 @N: FX1184 |Applying syn_allowed_resources blockrams=84 on top level netlist blinky_sd 
 
-Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
 
@@ -94,19 +94,19 @@ PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pl
 Finished Pre Mapping Phase.
 @N: BN225 |Writing default property annotation file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/blinky_sd.sap.
 
-Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished constraint checker preprocessing (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Finished constraint checker preprocessing (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 Pre-mapping successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 478MB peak: 567MB)
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 474MB peak: 562MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Sat Jun 22 08:00:10 2024
+# Sat Jun 22 12:26:40 2024
 
 ###########################################################]

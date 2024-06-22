@@ -1,0 +1,4 @@
+tui enable
+target extended-remote localhost:3333
+set mem inaccessible-by-default off
+set architecture riscv:rv64

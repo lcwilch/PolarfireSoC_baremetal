@@ -8,7 +8,7 @@
 
 # Family: PolarFireSoC , Die: MPFS025T , Package: FCVG484 , Speed grade: STD 
 
-# Date generated: Sat Jun 22 08:01:13 2024 
+# Date generated: Sat Jun 22 12:27:29 2024 
 
 
 #
@@ -27,69 +27,65 @@ set_io LEDS[11] Y21
 set_io LEDS[12] Y20
 set_io LEDS[13] B10
 set_io LEDS[14] B9
-set_io REFCLK L7
-set_io REFCLK_N L8
 
 #
 # Core cell constraints
 #
 
-set_location blinky_0/ledsState[12] 867 136
-set_location blinky_0/counter[27] 900 136
+set_location blinky_0/ledsState[12] 969 136
+set_location blinky_0/counter[27] 966 136
 set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1 726 150
-set_location blinky_0/counter[11] 884 136
-set_location blinky_0/counter[22] 895 136
-set_location blinky_0/counter[24] 897 136
-set_location blinky_0/counter_RNO[0] 864 135
-set_location blinky_0/counter[20] 893 136
-set_location blinky_0/ledsState[6] 887 139
-set_location blinky_0/counter[4] 877 136
+set_location blinky_0/counter[11] 950 136
+set_location blinky_0/counter[22] 961 136
+set_location blinky_0/counter[24] 963 136
+set_location blinky_0/counter_RNO[0] 936 135
+set_location blinky_0/counter[20] 959 136
+set_location blinky_0/ledsState[6] 955 139
+set_location blinky_0/counter[4] 943 136
 set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0_1 12 2
-set_location blinky_0/ledsState[4] 882 139
-set_location blinky_0/counter[25] 898 136
-set_location blinky_0/counter[7] 880 136
-set_location blinky_0/counter[19] 892 136
-set_location blinky_0/ledsState[7] 878 139
-set_location blinky_0/counter[21] 894 136
-set_location blinky_0/counter[3] 876 136
-set_location blinky_0/ledsState[5] 886 139
-set_location blinky_0/counter[1] 874 136
-set_location blinky_0/counter[5] 878 136
+set_location blinky_0/ledsState[4] 954 139
+set_location blinky_0/counter[25] 964 136
+set_location blinky_0/counter[7] 946 136
+set_location blinky_0/counter[19] 958 136
+set_location blinky_0/ledsState[7] 952 139
+set_location blinky_0/counter[21] 960 136
+set_location blinky_0/counter[3] 942 136
+set_location blinky_0/ledsState[5] 957 139
+set_location blinky_0/counter[1] 940 136
+set_location blinky_0/counter[5] 944 136
 set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_DELAY 7 7
 set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_1 4 7
-set_location blinky_0/counter[8] 881 136
-set_location blinky_0/ledsState[13] 884 139
-set_location blinky_0/counter[18] 891 136
-set_location blinky_0/ledsState[9] 869 136
+set_location blinky_0/counter[8] 947 136
+set_location blinky_0/ledsState[13] 968 136
+set_location blinky_0/counter[18] 957 136
+set_location blinky_0/ledsState[9] 970 136
 set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT 721 0
-set_location blinky_0/counter[13] 886 136
-set_location blinky_0/counter[6] 879 136
-set_location blinky_0/ledsState[11] 868 136
-set_location blinky_0/counter[2] 875 136
+set_location blinky_0/counter[13] 952 136
+set_location blinky_0/counter[6] 945 136
+set_location blinky_0/ledsState[11] 971 136
+set_location blinky_0/counter[2] 941 136
 set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160 656 5
-set_location blinky_0/counter[0] 864 136
+set_location blinky_0/counter[0] 936 136
 set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0 720 0
 set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT_1 721 8
-set_location blinky_0/ledsState[10] 883 139
-set_location blinky_0/counter[28] 901 136
-set_location blinky_0/counter[16] 889 136
-set_location blinky_0/ledsState[14] 870 136
-set_location blinky_0/counter[17] 890 136
+set_location blinky_0/ledsState[10] 951 139
+set_location blinky_0/counter[28] 967 136
+set_location blinky_0/counter[16] 955 136
+set_location blinky_0/ledsState[14] 950 139
+set_location blinky_0/counter[17] 956 136
 set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT/U0_RGB1 723 15
 set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0 0 8
-set_location blinky_0/counter[23] 896 136
-set_location blinky_0/counter[12] 885 136
-set_location blinky_0/ledsState[3] 881 139
-set_location blinky_0/counter[14] 887 136
-set_location blinky_0/ledsState[8] 876 139
-set_location blinky_0/counter[10] 883 136
-set_location MSS_barebones_0/I_MSS 737 215
-set_location blinky_0/counter[15] 888 136
-set_location blinky_0/counter[9] 882 136
-set_location blinky_0/counter[26] 899 136
-set_location blinky_0/counter_s_13 873 135
+set_location blinky_0/counter[23] 962 136
+set_location blinky_0/counter[12] 951 136
+set_location blinky_0/ledsState[3] 949 139
+set_location blinky_0/counter[14] 953 136
+set_location blinky_0/ledsState[8] 948 139
+set_location blinky_0/counter[10] 949 136
+set_location blinky_0/counter[15] 954 136
+set_location blinky_0/counter[9] 948 136
+set_location blinky_0/counter[26] 965 136
+set_location blinky_0/counter_s_1 939 135
 set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1_RGB0 726 123
-set_location blinky_0/counter_s_13_CC_0 873 137
-set_location blinky_0/counter_s_13_CC_1 876 137
-set_location blinky_0/counter_s_13_CC_2 888 137
-set_location blinky_0/counter_s_13_CC_3 900 137
+set_location blinky_0/counter_s_1_CC_0 939 137
+set_location blinky_0/counter_s_1_CC_1 948 137
+set_location blinky_0/counter_s_1_CC_2 960 137

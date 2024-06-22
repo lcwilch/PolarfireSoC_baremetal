@@ -1,6 +1,6 @@
 Compile Report
 Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)
-Date: Sat Jun 22 08:00:15 2024
+Date: Sat Jun 22 12:26:44 2024
 
 Device Selection
 +------------------------+--------------+
@@ -46,8 +46,7 @@ Resource Usage
 | Transceiver Lanes         | 0    | 4     | 0.00       |
 | Transceiver PCIe          | 0    | 2     | 0.00       |
 | ICB_CLKINT                | 2    | 44    | 4.55       |
-| MSS                       | 1    | 1     | 100.00     |
-| MSS I/O                   | 2    | 136   | 1.47       |
+| MSS                       | 0    | 1     | 0.00       |
 +---------------------------+------+-------+------------+
 
 Detailed Logic Resource Usage
@@ -98,54 +97,54 @@ Nets assigned to row global resources
 +--------+------+------+
 
 High fanout nets
-+--------+---------+------------------------------------------+
-| Fanout | Type    | Name                                     |
-+--------+---------+------------------------------------------+
-| 12     | INT_NET | Net   : MSS_barebones_0_PLL_CPU_LOCK_M2F |
-|        |         | Driver: MSS_barebones_0/I_MSS            |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[28]           |
-|        |         | Driver: blinky_0/counter[28]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[27]           |
-|        |         | Driver: blinky_0/counter[27]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[26]           |
-|        |         | Driver: blinky_0/counter[26]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[25]           |
-|        |         | Driver: blinky_0/counter[25]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[24]           |
-|        |         | Driver: blinky_0/counter[24]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[23]           |
-|        |         | Driver: blinky_0/counter[23]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[22]           |
-|        |         | Driver: blinky_0/counter[22]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[21]           |
-|        |         | Driver: blinky_0/counter[21]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[20]           |
-|        |         | Driver: blinky_0/counter[20]             |
-+--------+---------+------------------------------------------+
++--------+---------+--------------------------------+
+| Fanout | Type    | Name                           |
++--------+---------+--------------------------------+
+| 2      | INT_NET | Net   : blinky_0/counter_Z[28] |
+|        |         | Driver: blinky_0/counter[28]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[27] |
+|        |         | Driver: blinky_0/counter[27]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[26] |
+|        |         | Driver: blinky_0/counter[26]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[25] |
+|        |         | Driver: blinky_0/counter[25]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[24] |
+|        |         | Driver: blinky_0/counter[24]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[23] |
+|        |         | Driver: blinky_0/counter[23]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[22] |
+|        |         | Driver: blinky_0/counter[22]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[21] |
+|        |         | Driver: blinky_0/counter[21]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[20] |
+|        |         | Driver: blinky_0/counter[20]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[19] |
+|        |         | Driver: blinky_0/counter[19]   |
++--------+---------+--------------------------------+
 
 High fanout nets (through buffer trees)
-+--------+---------+------------------------------------------+
-| Fanout | Type    | Name                                     |
-+--------+---------+------------------------------------------+
-| 12     | INT_NET | Net   : MSS_barebones_0_PLL_CPU_LOCK_M2F |
-|        |         | Driver: MSS_barebones_0/I_MSS            |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[28]           |
-|        |         | Driver: blinky_0/counter[28]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[27]           |
-|        |         | Driver: blinky_0/counter[27]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[26]           |
-|        |         | Driver: blinky_0/counter[26]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[25]           |
-|        |         | Driver: blinky_0/counter[25]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[24]           |
-|        |         | Driver: blinky_0/counter[24]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[23]           |
-|        |         | Driver: blinky_0/counter[23]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[22]           |
-|        |         | Driver: blinky_0/counter[22]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[21]           |
-|        |         | Driver: blinky_0/counter[21]             |
-| 2      | INT_NET | Net   : blinky_0/counter_Z[20]           |
-|        |         | Driver: blinky_0/counter[20]             |
-+--------+---------+------------------------------------------+
++--------+---------+--------------------------------+
+| Fanout | Type    | Name                           |
++--------+---------+--------------------------------+
+| 2      | INT_NET | Net   : blinky_0/counter_Z[28] |
+|        |         | Driver: blinky_0/counter[28]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[27] |
+|        |         | Driver: blinky_0/counter[27]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[26] |
+|        |         | Driver: blinky_0/counter[26]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[25] |
+|        |         | Driver: blinky_0/counter[25]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[24] |
+|        |         | Driver: blinky_0/counter[24]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[23] |
+|        |         | Driver: blinky_0/counter[23]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[22] |
+|        |         | Driver: blinky_0/counter[22]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[21] |
+|        |         | Driver: blinky_0/counter[21]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[20] |
+|        |         | Driver: blinky_0/counter[20]   |
+| 2      | INT_NET | Net   : blinky_0/counter_Z[19] |
+|        |         | Driver: blinky_0/counter[19]   |
++--------+---------+--------------------------------+
 

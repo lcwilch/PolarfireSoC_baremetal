@@ -10,7 +10,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -29,7 +29,7 @@ Name     Total elements     Utilization     Notes
 -------------------------------------------------
 SLE      41                 100 %                
 =================================================
-Total SEQUENTIAL ELEMENTS in the block blinky_sd:	41 (39.81 % Utilization)
+Total SEQUENTIAL ELEMENTS in the block blinky_sd:	41 (41.41 % Utilization)
 
 
 COMBINATIONAL LOGIC
@@ -37,9 +37,9 @@ Name          Total elements     Utilization     Notes
 ------------------------------------------------------
 CFG           1                  100 %                
 ARI1          29                 100 %                
-BLACK BOX     3                  100 %                
+BLACK BOX     2                  100 %                
 ======================================================
-Total COMBINATIONAL LOGIC in the block blinky_sd:	33 (32.04 % Utilization)
+Total COMBINATIONAL LOGIC in the block blinky_sd:	32 (32.32 % Utilization)
 
 
 GLOBAL BUFFERS
@@ -47,35 +47,15 @@ Name       Total elements     Utilization     Notes
 ---------------------------------------------------
 GLOBAL     2                  100 %                
 ===================================================
-Total GLOBAL BUFFERS in the block blinky_sd:	2 (1.94 % Utilization)
+Total GLOBAL BUFFERS in the block blinky_sd:	2 (2.02 % Utilization)
 
 
 IO PADS
 Name     Total elements     Utilization     Notes
 -------------------------------------------------
-IO       13                 100 %                
+IO       12                 100 %                
 =================================================
-Total IO PADS in the block blinky_sd:	13 (12.62 % Utilization)
-
--------------------------------------------------------------------
-########   Utilization report for  cell:   MSS_barebones   ########
-Instance path:   blinky_sd.MSS_barebones                           
-===================================================================
-
-COMBINATIONAL LOGIC
-Name          Total elements     Utilization     Notes
-------------------------------------------------------
-BLACK BOX     1                  33.3 %               
-======================================================
-Total COMBINATIONAL LOGIC in the block blinky_sd.MSS_barebones:	1 (0.97 % Utilization)
-
-
-IO PADS
-Name     Total elements     Utilization     Notes
--------------------------------------------------
-IO       1                  7.69 %               
-=================================================
-Total IO PADS in the block blinky_sd.MSS_barebones:	1 (0.97 % Utilization)
+Total IO PADS in the block blinky_sd:	12 (12.12 % Utilization)
 
 ---------------------------------------------------------------
 ########   Utilization report for  cell:   PF_CCC_C0   ########
@@ -85,9 +65,9 @@ Instance path:   blinky_sd.PF_CCC_C0
 COMBINATIONAL LOGIC
 Name          Total elements     Utilization     Notes
 ------------------------------------------------------
-BLACK BOX     1                  33.3 %               
+BLACK BOX     1                  50 %                 
 ======================================================
-Total COMBINATIONAL LOGIC in the block blinky_sd.PF_CCC_C0:	1 (0.97 % Utilization)
+Total COMBINATIONAL LOGIC in the block blinky_sd.PF_CCC_C0:	1 (1.01 % Utilization)
 
 
 GLOBAL BUFFERS
@@ -95,7 +75,7 @@ Name       Total elements     Utilization     Notes
 ---------------------------------------------------
 GLOBAL     1                  50 %                 
 ===================================================
-Total GLOBAL BUFFERS in the block blinky_sd.PF_CCC_C0:	1 (0.97 % Utilization)
+Total GLOBAL BUFFERS in the block blinky_sd.PF_CCC_C0:	1 (1.01 % Utilization)
 
 ----------------------------------------------------------------------------------
 ########   Utilization report for  cell:   PF_CCC_C0_PF_CCC_C0_0_PF_CCC   ########
@@ -105,9 +85,9 @@ Instance path:   PF_CCC_C0.PF_CCC_C0_PF_CCC_C0_0_PF_CCC
 COMBINATIONAL LOGIC
 Name          Total elements     Utilization     Notes
 ------------------------------------------------------
-BLACK BOX     1                  33.3 %               
+BLACK BOX     1                  50 %                 
 ======================================================
-Total COMBINATIONAL LOGIC in the block PF_CCC_C0.PF_CCC_C0_PF_CCC_C0_0_PF_CCC:	1 (0.97 % Utilization)
+Total COMBINATIONAL LOGIC in the block PF_CCC_C0.PF_CCC_C0_PF_CCC_C0_0_PF_CCC:	1 (1.01 % Utilization)
 
 
 GLOBAL BUFFERS
@@ -115,7 +95,7 @@ Name       Total elements     Utilization     Notes
 ---------------------------------------------------
 GLOBAL     1                  50 %                 
 ===================================================
-Total GLOBAL BUFFERS in the block PF_CCC_C0.PF_CCC_C0_PF_CCC_C0_0_PF_CCC:	1 (0.97 % Utilization)
+Total GLOBAL BUFFERS in the block PF_CCC_C0.PF_CCC_C0_PF_CCC_C0_0_PF_CCC:	1 (1.01 % Utilization)
 
 ---------------------------------------------------------------
 ########   Utilization report for  cell:   PF_OSC_C0   ########
@@ -125,9 +105,9 @@ Instance path:   blinky_sd.PF_OSC_C0
 COMBINATIONAL LOGIC
 Name          Total elements     Utilization     Notes
 ------------------------------------------------------
-BLACK BOX     1                  33.3 %               
+BLACK BOX     1                  50 %                 
 ======================================================
-Total COMBINATIONAL LOGIC in the block blinky_sd.PF_OSC_C0:	1 (0.97 % Utilization)
+Total COMBINATIONAL LOGIC in the block blinky_sd.PF_OSC_C0:	1 (1.01 % Utilization)
 
 
 GLOBAL BUFFERS
@@ -135,7 +115,7 @@ Name       Total elements     Utilization     Notes
 ---------------------------------------------------
 GLOBAL     1                  50 %                 
 ===================================================
-Total GLOBAL BUFFERS in the block blinky_sd.PF_OSC_C0:	1 (0.97 % Utilization)
+Total GLOBAL BUFFERS in the block blinky_sd.PF_OSC_C0:	1 (1.01 % Utilization)
 
 ----------------------------------------------------------------------------------
 ########   Utilization report for  cell:   PF_OSC_C0_PF_OSC_C0_0_PF_OSC   ########
@@ -145,9 +125,9 @@ Instance path:   PF_OSC_C0.PF_OSC_C0_PF_OSC_C0_0_PF_OSC
 COMBINATIONAL LOGIC
 Name          Total elements     Utilization     Notes
 ------------------------------------------------------
-BLACK BOX     1                  33.3 %               
+BLACK BOX     1                  50 %                 
 ======================================================
-Total COMBINATIONAL LOGIC in the block PF_OSC_C0.PF_OSC_C0_PF_OSC_C0_0_PF_OSC:	1 (0.97 % Utilization)
+Total COMBINATIONAL LOGIC in the block PF_OSC_C0.PF_OSC_C0_PF_OSC_C0_0_PF_OSC:	1 (1.01 % Utilization)
 
 
 GLOBAL BUFFERS
@@ -155,7 +135,7 @@ Name       Total elements     Utilization     Notes
 ---------------------------------------------------
 GLOBAL     1                  50 %                 
 ===================================================
-Total GLOBAL BUFFERS in the block PF_OSC_C0.PF_OSC_C0_PF_OSC_C0_0_PF_OSC:	1 (0.97 % Utilization)
+Total GLOBAL BUFFERS in the block PF_OSC_C0.PF_OSC_C0_PF_OSC_C0_0_PF_OSC:	1 (1.01 % Utilization)
 
 ------------------------------------------------------------
 ########   Utilization report for  cell:   blinky   ########
@@ -167,7 +147,7 @@ Name     Total elements     Utilization     Notes
 -------------------------------------------------
 SLE      41                 100 %                
 =================================================
-Total SEQUENTIAL ELEMENTS in the block blinky_sd.blinky:	41 (39.81 % Utilization)
+Total SEQUENTIAL ELEMENTS in the block blinky_sd.blinky:	41 (41.41 % Utilization)
 
 
 COMBINATIONAL LOGIC
@@ -176,7 +156,7 @@ Name     Total elements     Utilization     Notes
 CFG      1                  100 %                
 ARI1     29                 100 %                
 =================================================
-Total COMBINATIONAL LOGIC in the block blinky_sd.blinky:	30 (29.13 % Utilization)
+Total COMBINATIONAL LOGIC in the block blinky_sd.blinky:	30 (30.30 % Utilization)
 
 
 ##### END OF AREA REPORT #####]

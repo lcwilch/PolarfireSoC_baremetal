@@ -1,6 +1,8 @@
 Info: [127205813]:  CMPPF_149: Added 'ADLIB:ICB_CLKINT' instance type before pin 'PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT:A'.
 Info: [127205813]:  CMPPF_149: Added 'ADLIB:ICB_CLKINT' instance type before pin 'PF_CCC_C0_0/PF_CCC_C0_0/clkint_0:A'.
 Info: [127205813]:  CMPPF_149: Added 'ADLIB:CRN_INT' instance type before pin 'PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0:REF_CLK_0'.
+Warning: [127205465]:  CMPPF_007: Top level port REFCLK is not connected to any I/O pad. Check whether I/O buffer insertion is disabled in Synthesis or whether Block Flow is enabled.
+Warning: [127205465]:  CMPPF_007: Top level port REFCLK_N is not connected to any I/O pad. Check whether I/O buffer insertion is disabled in Synthesis or whether Block Flow is enabled.
 
 ===============================================================================.
 

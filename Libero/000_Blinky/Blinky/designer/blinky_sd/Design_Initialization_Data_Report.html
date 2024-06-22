@@ -34,7 +34,7 @@
         <p>Family: PolarFireSoC</p>
         <p>Die: MPFS025T</p>
         <p>Package: FCVG484</p>
-        <p>Date: Sat Jun 22 08:01:58 2024
+        <p>Date: Sat Jun 22 12:27:43 2024
 </p>
         <p>Report path: /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/Design_Initialization_Data_Report.xml</p>
         <h2>
@@ -46,7 +46,7 @@ PolarFireSoC Macros</h2>
             </tr>
             <tr>
                 <td>MSS</td>
-                <td>Yes</td>
+                <td>No</td>
             </tr>
             <tr>
                 <td>PFSOC_SCSM</td>
@@ -75,7 +75,7 @@ INFO: The PUFT timing numbers reflect the time elapsed between the assertion of 
             </tr>
             <tr>
                 <td>Crypto</td>
-                <td>Yes</td>
+                <td>No</td>
             </tr>
         </table>
         <h2>PCIE1_PCIE_CTRL   (Unused)</h2>
@@ -8395,162 +8395,6 @@ INFO: The PUFT timing numbers reflect the time elapsed between the assertion of 
                 <td>0x00000001</td>
                 <td>Yes</td>
                 <td>N/A</td>
-            </tr>
-        </table>
-        <p>Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.</p>
-        <h2>MSS   (MSS_barebones_0/I_MSS)</h2>
-        <table cellpadding="4">
-            <tr>
-                <th>Register Name</th>
-                <th>Address</th>
-                <th>Silicon Default Value</th>
-                <th>Configured Value</th>
-                <th>Modified</th>
-                <th>Lock Value(*)</th>
-            </tr>
-            <tr>
-                <td>CRYPTO_DLL_CTRL0</td>
-                <td>0x7010004</td>
-                <td>0x8800000F</td>
-                <td>0x8810000F</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>CRYPTO_DLL_CTRL1</td>
-                <td>0x7010008</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>CRYPTO_DLL_STAT0</td>
-                <td>0x701000C</td>
-                <td>0x00001801</td>
-                <td>0x00001800</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>CRYPTO_CONTROL_USER</td>
-                <td>0x7010040</td>
-                <td>0x00000006</td>
-                <td>0x000000EC</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>CRYPTO_INTERRUPT_ENABLE</td>
-                <td>0x701004C</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>CRYPTO_MARGIN</td>
-                <td>0x7010060</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL0_CTRL0</td>
-                <td>0x7040200</td>
-                <td>0x8800000F</td>
-                <td>0x8810000F</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL0_CTRL1</td>
-                <td>0x7040204</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL0_STAT0</td>
-                <td>0x7040208</td>
-                <td>0x00001003</td>
-                <td>0x00001000</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL1_CTRL0</td>
-                <td>0x7040220</td>
-                <td>0x8800000F</td>
-                <td>0x8810000F</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL1_CTRL1</td>
-                <td>0x7040224</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL1_STAT0</td>
-                <td>0x7040228</td>
-                <td>0x00001003</td>
-                <td>0x00001000</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL2_CTRL0</td>
-                <td>0x7040240</td>
-                <td>0x8800000F</td>
-                <td>0x8810000F</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL2_CTRL1</td>
-                <td>0x7040244</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL2_STAT0</td>
-                <td>0x7040248</td>
-                <td>0x00001003</td>
-                <td>0x00001000</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL3_CTRL0</td>
-                <td>0x7040260</td>
-                <td>0x8800000F</td>
-                <td>0x8810000F</td>
-                <td>Yes</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL3_CTRL1</td>
-                <td>0x7040264</td>
-                <td>0x00000000</td>
-                <td>0x00000000</td>
-                <td>No</td>
-                <td>1</td>
-            </tr>
-            <tr>
-                <td>SCB_REGS_DLL3_STAT0</td>
-                <td>0x7040268</td>
-                <td>0x00001003</td>
-                <td>0x00001000</td>
-                <td>Yes</td>
-                <td>1</td>
             </tr>
         </table>
         <p>Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.</p>

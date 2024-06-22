@@ -10,7 +10,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: unlimited (bytes)
 
 
@@ -19,245 +19,245 @@ Synopsys HDL compiler and linker, Version comp202309synp1, Build 146R, Built Jan
 
 Modified Files: 2
 FID:  path (prevtimestamp, timestamp)
-0        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06)
-9        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41)
+0        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37)
+9        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22)
 
 *******************************************************************
 Modules that may have changed as a result of file changes: 81
 MID:  lib.cell.view
 0        work.APBM.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 1        work.APBS.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 2        work.BANKCTRLM.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 3        work.BANKCTRL_GPIO.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 4        work.BANKCTRL_HSIO.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 5        work.BANKEN.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 6        work.CLKBUF_DIFF.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 7        work.CLKBUF_DIFF_ODT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 8        work.CORELNKTMR_V.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 9        work.CRN_COMMON.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 10       work.CRN_INT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 11       work.CRYPTO.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 12       work.CRYPTO_SOC.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 13       work.DEBUG.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 14       work.DLL.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 15       work.DRI.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 16       work.ENFORCE.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 17       work.GLITCHDETECT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 18       work.GPSS_COMMON.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 19       work.HS_IO_CLK.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 20       work.ICB_BANKCLK.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 21       work.ICB_CLKDIV.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 22       work.ICB_CLKDIVDELAY.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 23       work.ICB_CLKINT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 24       work.ICB_CLKSTOP.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 25       work.ICB_CLKSTOP_EN.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 26       work.ICB_INT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 27       work.ICB_MUXING.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 28       work.ICB_NGMUX.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 29       work.INIT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 30       work.IOD.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 31       work.LANECTRL.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 32       work.LANERST.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 33       work.MSS.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 34       work.MSS_barebones.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 35       work.OSC_RC160MHZ.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 36       work.OSC_RC200MHZ.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 37       work.OSC_RC2MHZ.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 38       work.PCIE.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 39       work.PCIE_COMMON.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 40       work.PFSOC_INIT_MONITOR_C0.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 41       work.PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 42       work.PFSOC_SCSM.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 43       work.PF_CCC_C0.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 44       work.PF_CCC_C0_PF_CCC_C0_0_PF_CCC.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 45       work.PF_OSC_C0.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 46       work.PF_OSC_C0_PF_OSC_C0_0_PF_OSC.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 47       work.PF_SPI.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 48       work.PLL.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 49       work.QUADRST.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 50       work.QUADRST_PCIE.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 51       work.SCB.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 52       work.SYSCTRL_RESET_STATUS.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 53       work.SYSRESET.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 54       work.SYS_SERVICES.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 55       work.TAMPER.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 56       work.TVS.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 57       work.TX_PLL.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 58       work.UPROM.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 59       work.USPI.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 60       work.VOLTAGEDETECT.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 61       work.VREFBANKDYN.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 62       work.VREFCTRL.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 63       work.XCVR.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 64       work.XCVR_64B6XB.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 65       work.XCVR_8B10B.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 66       work.XCVR_APB_LINK.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 67       work.XCVR_APB_LINK_V.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 68       work.XCVR_APB_LINK_V2.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 69       work.XCVR_DUAL_PCS.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 70       work.XCVR_PIPE.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 71       work.XCVR_PIPE_AXI0.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 72       work.XCVR_PIPE_AXI1.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 73       work.XCVR_PMA.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 74       work.XCVR_REF_CLK.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 75       work.XCVR_REF_CLK_N.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 76       work.XCVR_REF_CLK_P.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 77       work.XCVR_TEST.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 78       work.XCVR_VV.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 07:56:28, 2024-06-22 08:00:06) <-- (module definition)
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v (2024-06-22 08:00:06, 2024-06-22 12:26:37) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 79       work.blinky.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (may instantiate this module)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (may instantiate this module)
 80       work.blinky_sd.verilog may have changed because the following files changed:
-                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:56:14, 2024-06-22 07:59:41) <-- (module definition)
+                        /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v (2024-06-22 07:59:41, 2024-06-22 12:26:22) <-- (module definition)
 
 *******************************************************************
 Unmodified files: 14

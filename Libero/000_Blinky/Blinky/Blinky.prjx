@@ -72,15 +72,8 @@ PARENT="<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.cxf
 ENDFILE
 VALUE "<project>/component/work/blinky_sd/blinky_sd.cxf,actgen_cxf"
 STATE="utd"
-TIME="1719057582"
-SIZE="2627"
-ENDFILE
-VALUE "<project>/component/work/blinky_sd/blinky_sd.v,hdl"
-STATE="utd"
-TIME="1719057581"
-SIZE="3437"
-PARENT="<project>/component/work/blinky_sd/blinky_sd.cxf"
-IS_READONLY="TRUE"
+TIME="1719073577"
+SIZE="2338"
 ENDFILE
 VALUE "<project>/component/work/MSS_barebones/MSS_barebones.cxf,actgen_cxf"
 STATE="utd"
@@ -242,22 +235,22 @@ PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
 ENDFILE
 VALUE "<project>/synthesis/blinky_sd.so,so"
 STATE="utd"
-TIME="1717466011"
+TIME="1719057612"
 SIZE="257"
 ENDFILE
 VALUE "<project>/synthesis/blinky_sd.vm,syn_vm"
 STATE="ood"
-TIME="1717466011"
-SIZE="23919"
+TIME="1719057612"
+SIZE="100775"
 ENDFILE
 VALUE "<project>/synthesis/blinky_sd_syn.prj,prj"
 STATE="utd"
-TIME="1717466011"
+TIME="1719057612"
 SIZE="4353"
 ENDFILE
 VALUE "<project>/synthesis/blinky_sd_vm.sdc,syn_sdc"
 STATE="utd"
-TIME="1717466011"
+TIME="1719057612"
 SIZE="1087"
 ENDFILE
 ENDLIST
@@ -265,7 +258,7 @@ LIST UsedFile
 ENDLIST
 LIST NewModulesInfo
 LIST "blinky_sd::work"
-FILE "<project>/component/work/blinky_sd/blinky_sd.v,hdl"
+FILE "<project>/component/work/blinky_sd/blinky_sd.cxf,actgen_cxf"
 LIST SynthesisConstraints
 VALUE "<project>/constraint/blinky_sd_derived_constraints.sdc,sdc"
 ENDLIST
@@ -374,8 +367,8 @@ NAME="Synplify Pro ME"
 FUNCTION="Synthesis"
 TOOL="Synplify Pro ME"
 LOCATION="/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/bin/synplify_pro"
-PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
-BATCH=1
+PARAM=""
+BATCH=0
 LICENSE=""
 IS32BIT="1"
 EndProfile
@@ -412,23 +405,23 @@ LIST UserCustomizedFileList
 ENDLIST
 LIST OpenedFileList
 ORIENTATION;HORIZONTAL
-Reports;Reports;0
-ReportsCurrentItem;Run Programming Action:blinky_sd_PROGRAM.log
 HDL;hdl/blinky.v;0
 Constraint Manager;Constraint Manager;0
+Reports;Reports;0
+ReportsCurrentItem;Run Programming Action:blinky_sd_PROGRAM.log
 StartPage;StartPage;0
 SmartDesign;blinky_sd;0
-ACTIVEVIEW;Reports
+ACTIVEVIEW;blinky_sd
 ENDLIST
 LIST ModuleSubBlockList
 LIST "blinky::work","hdl/blinky.v","FALSE","FALSE"
 ENDLIST
-LIST "blinky_sd::work","component/work/blinky_sd/blinky_sd.v","TRUE","FALSE"
+LIST "blinky_sd::work","component/work/blinky_sd/blinky_sd.cxf","TRUE","FALSE"
+SUBBLOCK "blinky::work","hdl/blinky.v","FALSE","FALSE"
 SUBBLOCK "MSS_barebones::work","component/work/MSS_barebones/MSS_barebones.v","TRUE","FALSE"
 SUBBLOCK "PFSOC_INIT_MONITOR_C0::work","component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v","TRUE","FALSE"
 SUBBLOCK "PF_CCC_C0::work","component/work/PF_CCC_C0/PF_CCC_C0.v","TRUE","FALSE"
 SUBBLOCK "PF_OSC_C0::work","component/work/PF_OSC_C0/PF_OSC_C0.v","TRUE","FALSE"
-SUBBLOCK "blinky::work","hdl/blinky.v","FALSE","FALSE"
 ENDLIST
 LIST "MSS::work","component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
 ENDLIST

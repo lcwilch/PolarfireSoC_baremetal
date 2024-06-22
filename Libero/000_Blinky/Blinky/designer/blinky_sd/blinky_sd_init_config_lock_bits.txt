@@ -1,6 +1,6 @@
 ;----------------------------------------------------------------------------------
 ; Register Lock Bits Configuration File for peripheral blocks
-; Date:    Sat Jun 22 08:01:47 2024
+; Date:    Sat Jun 22 12:27:32 2024
 ; Version: 2024.1 2024.1.0.3
 ; Design:  blinky_sd
 ; Family:  PolarFireSoC

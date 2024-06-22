@@ -1,7 +1,7 @@
 #--  Synopsys, Inc.
 #--  Version V-2023.09M
 #--  Project file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/run_options.txt
-#--  Written on Sat Jun 22 08:00:07 2024
+#--  Written on Sat Jun 22 12:26:37 2024
 
 
 #project files

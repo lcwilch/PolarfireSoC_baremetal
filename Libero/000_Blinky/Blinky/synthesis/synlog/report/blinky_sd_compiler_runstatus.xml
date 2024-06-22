@@ -14,11 +14,11 @@ The file contains the job information from compiler to be displayed as part of t
   </job_status>
 <job_info> 
 			<info name="Notes">
-  <data>22</data>
+  <data>24</data>
   <report_link name="more"><data>/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synlog/report/blinky_sd_compiler_notes.txt</data></report_link>
   </info>
 			<info name="Warnings">
-  <data>82</data>
+  <data>83</data>
   <report_link name="more"><data>/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synlog/report/blinky_sd_compiler_warnings.txt</data></report_link>
   </info>
 			<info name="Errors">
@@ -35,7 +35,7 @@ The file contains the job information from compiler to be displayed as part of t
   <data>-</data>
   </info>
 			<info name="Date &amp;Time">
-  <data type="timestamp">1719057607</data>
+  <data type="timestamp">1719073598</data>
   </info>
 			</job_info>
 </job_run_status>

@@ -22,13 +22,13 @@ INFO: Reading User PDC file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero
  Timing based Global Demotion completed successfully.
 
 Running the I/O Bank and Globals Assigner.
-Info:  I/O Bank and Globals Assigner identified 13 fixed I/O macros, 0 unfixed I/O macros
+Info:  I/O Bank and Globals Assigner identified 12 fixed I/O macros, 0 unfixed I/O macros
 
 I/O Bank and Globals Assigner completed successfully.
-Total time spent in I/O Bank and Globals Assigner: 1 seconds
+Total time spent in I/O Bank and Globals Assigner: 0 seconds
 
 Placer V5.0 - 2024.1.0
-Design: blinky_sd                       Started: Sat Jun 22 08:00:50 2024
+Design: blinky_sd                       Started: Sat Jun 22 12:27:08 2024
 
 Initializing Normal-Effort Timing-Driven Placement ...
 Clustering ...
@@ -44,22 +44,22 @@ Improvement              : 0 seconds
 Placer completed successfully.
 
 Design: blinky_sd
-Finished: Sat Jun 22 08:01:07 2024
-Total CPU Time:     00:00:16            Total Elapsed Time: 00:00:17
-Total Memory Usage: 1038.7 Mbytes
+Finished: Sat Jun 22 12:27:24 2024
+Total CPU Time:     00:00:15            Total Elapsed Time: 00:00:16
+Total Memory Usage: 1031.6 Mbytes
                         o - o - o - o - o - o
 
 
 Router
-Design: blinky_sd                       Started: Sat Jun 22 08:01:10 2024
+Design: blinky_sd                       Started: Sat Jun 22 12:27:26 2024
 
 
 Router completed successfully.
 
 Design: blinky_sd
-Finished: Sat Jun 22 08:01:12 2024
-Total CPU Time:     00:00:02            Total Elapsed Time: 00:00:02
-Total Memory Usage: 787.3 Mbytes
+Finished: Sat Jun 22 12:27:28 2024
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:02
+Total Memory Usage: 786.4 Mbytes
                         o - o - o - o - o - o
 
 Resource Usage

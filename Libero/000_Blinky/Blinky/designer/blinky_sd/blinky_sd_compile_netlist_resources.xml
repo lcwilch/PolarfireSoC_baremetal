@@ -3,7 +3,7 @@
 <doc>
 <title>Compile Report</title>
 <text>Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2024.1.0.3)</text>
-<text>Date: Sat Jun 22 08:00:15 2024
+<text>Date: Sat Jun 22 12:26:44 2024
 </text>
 <section><name>Device Selection</name></section>
 <table>
@@ -176,15 +176,9 @@
 </row>
 <row>
  <cell>MSS</cell>
+ <cell>0</cell>
  <cell>1</cell>
- <cell>1</cell>
- <cell>100.00</cell>
-</row>
-<row>
- <cell>MSS I/O</cell>
- <cell>2</cell>
- <cell>136</cell>
- <cell>1.47</cell>
+ <cell>0.00</cell>
 </row>
 </table>
 <section><name>Detailed Logic Resource Usage</name></section>
@@ -330,16 +324,6 @@
  <cell>Name</cell>
 </header>
 <row>
- <cell>12</cell>
- <cell>INT_NET</cell>
- <cell>Net   : MSS_barebones_0_PLL_CPU_LOCK_M2F</cell>
-</row>
-<row>
- <cell></cell>
- <cell></cell>
- <cell>Driver: MSS_barebones_0/I_MSS</cell>
-</row>
-<row>
  <cell>2</cell>
  <cell>INT_NET</cell>
  <cell>Net   : blinky_0/counter_Z[28]</cell>
@@ -428,6 +412,16 @@
  <cell></cell>
  <cell></cell>
  <cell>Driver: blinky_0/counter[20]</cell>
+</row>
+<row>
+ <cell>2</cell>
+ <cell>INT_NET</cell>
+ <cell>Net   : blinky_0/counter_Z[19]</cell>
+</row>
+<row>
+ <cell></cell>
+ <cell></cell>
+ <cell>Driver: blinky_0/counter[19]</cell>
 </row>
 </table>
 <section><name>High fanout nets (through buffer trees)</name></section>
@@ -438,16 +432,6 @@
  <cell>Name</cell>
 </header>
 <row>
- <cell>12</cell>
- <cell>INT_NET</cell>
- <cell>Net   : MSS_barebones_0_PLL_CPU_LOCK_M2F</cell>
-</row>
-<row>
- <cell></cell>
- <cell></cell>
- <cell>Driver: MSS_barebones_0/I_MSS</cell>
-</row>
-<row>
  <cell>2</cell>
  <cell>INT_NET</cell>
  <cell>Net   : blinky_0/counter_Z[28]</cell>
@@ -536,6 +520,16 @@
  <cell></cell>
  <cell></cell>
  <cell>Driver: blinky_0/counter[20]</cell>
+</row>
+<row>
+ <cell>2</cell>
+ <cell>INT_NET</cell>
+ <cell>Net   : blinky_0/counter_Z[19]</cell>
+</row>
+<row>
+ <cell></cell>
+ <cell></cell>
+ <cell>Driver: blinky_0/counter[19]</cell>
 </row>
 </table>
 </doc>

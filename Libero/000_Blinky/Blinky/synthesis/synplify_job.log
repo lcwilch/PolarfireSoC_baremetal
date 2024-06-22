@@ -1,28 +1,28 @@
 {
 "Synplify Pro (R) Job Log" : {
-	"Date" : "08:00:12    22-Jun-2024",
+	"Date" : "12:26:41    22-Jun-2024",
 	"Working Directory" : "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis",
 	"CDPL Log file" : "-",
 	"Install" : "/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro"
 },
 "synthesis" :{
    "Job Flow" : "Sequential",
-   "Start Time" : "08:00:07",
-   "Runtime" : "05s",
-   "Executable Run Time" : "04s",
+   "Start Time" : "12:26:37",
+   "Runtime" : "04s",
+   "Executable Run Time" : "03s",
    "synthesis" : {
       "Job Flow" : "Sequential",
-      "Start Time" : "08:00:07",
-      "Runtime" : "05s",
-      "Executable Run Time" : "04s",
+      "Start Time" : "12:26:37",
+      "Runtime" : "04s",
+      "Executable Run Time" : "03s",
       "compile" : {
          "Job Flow" : "Sequential",
-         "Start Time" : "08:00:07",
+         "Start Time" : "12:26:37",
          "Runtime" : "03s",
          "Executable Run Time" : "02s",
          "compile_flow" : {
             "Job Flow" : "Sequential",
-            "Start Time" : "08:00:07",
+            "Start Time" : "12:26:37",
             "Runtime" : "02s",
             "Executable Run Time" : "01s",
             "compiler" : {
@@ -31,7 +31,7 @@
                "Run State" : "Complete",
                "Return Code" : "0",
                "Has Errors" : "no",
-               "Run Start Time" : "08:00:07",
+               "Run Start Time" : "12:26:37",
                "Run Time" : "02s",
                "Exe Run Time" : "01s",
                "Memory Usage" : "2.896000",
@@ -44,10 +44,10 @@
                "Run State" : "Complete",
                "Return Code" : "0",
                "Has Errors" : "no",
-               "Run Start Time" : "08:00:09",
+               "Run Start Time" : "12:26:39",
                "Run Time" : "00s",
                "Exe Run Time" : "00s",
-               "Memory Usage" : "2.896000",
+               "Memory Usage" : "-",
                "CDPL" : "off",
                "Up-to-date (run skipped)" : "no"
             }
@@ -58,7 +58,7 @@
             "Run State" : "Complete",
             "Return Code" : "1",
             "Has Errors" : "no",
-            "Run Start Time" : "08:00:09",
+            "Run Start Time" : "12:26:39",
             "Run Time" : "01s",
             "Exe Run Time" : "01s",
             "Memory Usage" : "2.900000",
@@ -68,18 +68,18 @@
       },
       "map" : {
          "Job Flow" : "Sequential",
-         "Start Time" : "08:00:10",
-         "Runtime" : "02s",
-         "Executable Run Time" : "02s",
+         "Start Time" : "12:26:40",
+         "Runtime" : "01s",
+         "Executable Run Time" : "01s",
          "fpga_mapper" : {
             "executable" : "bin/m_generic",
             "Run Directory" : "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis",
             "Run State" : "Complete",
             "Return Code" : "1",
             "Has Errors" : "no",
-            "Run Start Time" : "08:00:10",
-            "Run Time" : "02s",
-            "Exe Run Time" : "02s",
+            "Run Start Time" : "12:26:40",
+            "Run Time" : "01s",
+            "Exe Run Time" : "01s",
             "Memory Usage" : "2.900000",
             "CDPL" : "off",
             "Up-to-date (run skipped)" : "no"

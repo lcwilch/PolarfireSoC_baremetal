@@ -1,4 +1,4 @@
-# Sat Jun 22 08:00:10 2024
+# Sat Jun 22 12:26:40 2024
 
 
 Copyright (C) 1994-2023 Synopsys, Inc.
@@ -12,7 +12,7 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
@@ -41,79 +41,79 @@ Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h
 Vector Gate Optimization Enabled: Optimizing  Partial Hanging Logic. 
 
 
-Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 564MB peak: 564MB)
+Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
 Available hyper_sources - for debug and ip models
 	None Found
 
 
-Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 565MB peak: 565MB)
+Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 @N: MO231 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|Found counter in view:work.blinky_sd(verilog) instance blinky_0.counter[28:0] 
 
-Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
+Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
+Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 NConnInternalConnection caching is on
 
-Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
+Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
+Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Finished preparing to map (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished preparing to map (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
 
 
-Finished technology mapping (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished technology mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 Pass		 CPU time		Worst Slack		Luts / Registers
 ------------------------------------------------------------
-   1		0h:00m:01s		    91.91ns		  30 /        41
+   1		0h:00m:00s		    91.91ns		  30 /        41
 
 Added 0 Buffers
 Added 0 Cells via replication
 	Added 0 Sequential Cells via replication
 	Added 0 Combinational Cells via replication
 
-Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished restoring hierarchy (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished restoring hierarchy (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Starting CDBProcessSetClockGroups... (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Starting CDBProcessSetClockGroups... (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished with CDBProcessSetClockGroups (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished with CDBProcessSetClockGroups (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Start Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Start Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 Writing Analyst data base /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/blinky_sd_m.srm
 
-Finished Writing Netlist Databases (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
+Finished Writing Netlist Databases (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 Writing Verilog Simulation files
 @N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
 @N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
 
-Finished Writing Verilog Simulation files (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
+Finished Writing Verilog Simulation files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
+Finished Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Start final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
+Start final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 @W: MT246 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":13:17:13:25|Blackbox OSC_RC160MHZ is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
 @N: MT615 |Found clock osc_rc160mhz with period 5.87ns 
@@ -121,7 +121,7 @@ Start final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:0
 
 
 ##### START OF TIMING REPORT #####[
-# Timing report written on Sat Jun 22 08:00:12 2024
+# Timing report written on Sat Jun 22 12:26:40 2024
 #
 
 
@@ -248,9 +248,9 @@ Name                         Type     Name     Dir     Delay     Time        Fan
 ---------------------------------------------------------------------------------------
 blinky_0.counter[0]          SLE      Q        Out     0.257     0.257 r     -         
 counter[0]                   Net      -        -       0.146     -           2         
-blinky_0.counter_s_13        ARI1     B        In      -         0.404 r     -         
-blinky_0.counter_s_13        ARI1     FCO      Out     0.387     0.791 r     -         
-counter_s_13_FCO             Net      -        -       0.000     -           1         
+blinky_0.counter_s_1         ARI1     B        In      -         0.404 r     -         
+blinky_0.counter_s_1         ARI1     FCO      Out     0.387     0.791 r     -         
+counter_s_1_FCO              Net      -        -       0.000     -           1         
 blinky_0.counter_cry[1]      ARI1     FCI      In      -         0.791 r     -         
 blinky_0.counter_cry[1]      ARI1     FCO      Out     0.009     0.800 r     -         
 counter_cry[1]               Net      -        -       0.000     -           1         
@@ -346,10 +346,10 @@ Path delay compensated for clock skew. Clock skew is added to clock-to-out value
 
 Timing exceptions that could not be applied
 
-Finished final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
+Finished final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 
-Finished timing report (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
+Finished timing report (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
 
 ---------------------------------------
 Resource Usage Report for blinky_sd 
@@ -357,7 +357,6 @@ Resource Usage Report for blinky_sd
 Mapping to part: mpfs025tfcvg484std
 Cell usage:
 CLKINT          2 uses
-MSS             1 use
 OSC_RC160MHZ    1 use
 PLL             1 use
 CFG1           1 use
@@ -372,8 +371,7 @@ SLE            41 uses
 DSP Blocks:    0 of 68 (0%)
 
 I/O ports: 14
-I/O primitives: 13
-INBUF_DIFF     1 use
+I/O primitives: 12
 OUTBUF         12 uses
 
 
@@ -393,9 +391,9 @@ Total number of LUTs after P&R:  30 + 0 + 0 + 0 = 30;
 
 Mapper successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 478MB peak: 566MB)
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 474MB peak: 562MB)
 
-Process took 0h:00m:02s realtime, 0h:00m:02s cputime
-# Sat Jun 22 08:00:12 2024
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Sat Jun 22 12:26:40 2024
 
 ###########################################################]

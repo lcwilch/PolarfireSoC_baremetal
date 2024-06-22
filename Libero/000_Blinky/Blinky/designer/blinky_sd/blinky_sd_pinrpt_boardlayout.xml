@@ -16,7 +16,7 @@
 </header>
 <row>
  <cell>0.1</cell>
- <cell>Sat Jun 22 08:01:15 2024</cell>
+ <cell>Sat Jun 22 12:27:30 2024</cell>
  <cell>Designer</cell>
  <cell>v2024.1</cell>
  <cell>2024.1.0.3</cell>
@@ -52,18 +52,6 @@
  <cell>Output Load (pF)</cell>
  <cell>Source Termination (Ohm)</cell>
  <cell>Output Delay</cell>
- <cell>MSS Resistor Pull</cell>
- <cell>MSS Clamp Diode</cell>
- <cell>MSS Persist</cell>
- <cell>MSS User I/O Lock Down</cell>
- <cell>MSS Odt (Ohm)</cell>
- <cell>MSS Thevenin (Ohm)</cell>
- <cell>MSS Schmitt Trigger</cell>
- <cell>MSS Vcm Input Range</cell>
- <cell>MSS Low Power Mode Input Receiver</cell>
- <cell>MSS Low Power Mode Output Buffer</cell>
- <cell>MSS Output Drive (mA)</cell>
- <cell>MSS Source Termination (Ohm)</cell>
  <cell>Board Layout</cell>
 </header>
 <row>
@@ -72,18 +60,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -128,18 +104,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -148,18 +112,6 @@
  <cell>MSSIO35B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -204,18 +156,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -224,18 +164,6 @@
  <cell>GPIO40NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -280,18 +208,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -300,18 +216,6 @@
  <cell>GPIO41PB1/CLKIN_S_3/CCC_SW_CLKIN_S_3</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -356,18 +260,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -376,18 +268,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -432,18 +312,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -452,18 +320,6 @@
  <cell>GPIO45NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -508,18 +364,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -528,18 +372,6 @@
  <cell>GPIO49PB1/CLKIN_S_5</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -584,18 +416,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -604,18 +424,6 @@
  <cell>GPIO53PB1/CLKIN_S_7</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -660,18 +468,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -680,18 +476,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -736,18 +520,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -756,18 +528,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -812,18 +572,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -832,18 +580,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -888,18 +624,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -908,18 +632,6 @@
  <cell>MSS_DDR_DQ3</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -964,18 +676,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -984,18 +684,6 @@
  <cell>MSS_DDR_DQS_N0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1040,18 +728,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -1060,18 +736,6 @@
  <cell>MSS_DDR_DQ5</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1116,18 +780,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -1136,18 +788,6 @@
  <cell>MSS_DDR_DM1</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1192,18 +832,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -1212,18 +840,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1268,18 +884,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -1288,18 +892,6 @@
  <cell>MSS_DDR_DQS_P2</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1344,18 +936,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -1364,18 +944,6 @@
  <cell>HSIO26PB0/CLKIN_N_4/CCC_NW_PLL0_OUT0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1420,18 +988,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -1440,18 +996,6 @@
  <cell>HSIO25NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1496,18 +1040,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -1516,18 +1048,6 @@
  <cell>HSIO21NB0/DQS</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1572,18 +1092,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -1592,18 +1100,6 @@
  <cell>VDDI0</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1648,18 +1144,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -1668,18 +1152,6 @@
  <cell>HSIO9PB0/DQS/CCC_NE_PLL0_OUT0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1724,18 +1196,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -1744,18 +1204,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1800,18 +1248,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -1820,18 +1256,6 @@
  <cell>MSS_DDR_DQ7</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1876,18 +1300,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -1896,18 +1308,6 @@
  <cell>MSS_DDR_DQ10</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -1952,18 +1352,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI6 to 1.2v/1.5v/1.8v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -1972,18 +1360,6 @@
  <cell>MSS_DDR_DQ12</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2028,18 +1404,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -2048,18 +1412,6 @@
  <cell>MSS_DDR_DQ18</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2104,18 +1456,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -2124,18 +1464,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2180,18 +1508,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -2200,18 +1516,6 @@
  <cell>HSIO26NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2256,18 +1560,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -2276,18 +1568,6 @@
  <cell>HSIO24NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2332,18 +1612,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -2352,18 +1620,6 @@
  <cell>HSIO21PB0/DQS</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2408,18 +1664,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -2428,18 +1672,6 @@
  <cell>HSIO10PB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2484,18 +1716,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -2504,18 +1724,6 @@
  <cell>HSIO11PB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2560,18 +1768,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -2580,18 +1776,6 @@
  <cell>MSSIO27B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2636,18 +1820,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -2656,18 +1828,6 @@
  <cell>MSSIO34B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2712,18 +1872,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -2732,18 +1880,6 @@
  <cell>GPIO38NB1/DQS</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2788,18 +1924,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -2808,18 +1932,6 @@
  <cell>GPIO41NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -2864,18 +1976,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -2902,18 +2002,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[14]</cell>
 </row>
 <row>
@@ -2940,18 +2028,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[13]</cell>
 </row>
 <row>
@@ -2960,18 +2036,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3016,18 +2080,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3036,18 +2088,6 @@
  <cell>GPIO51PB1/CLKIN_S_6</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3092,18 +2132,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3112,18 +2140,6 @@
  <cell>GPIO53NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3168,18 +2184,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -3188,18 +2192,6 @@
  <cell>GPIO3PB1/CCC_SE_CLKIN_S_10/CCC_SE_PLL1_OUT0</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3244,18 +2236,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3264,18 +2244,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3320,18 +2288,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3340,18 +2296,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3396,18 +2340,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3416,18 +2348,6 @@
  <cell>MSSIO26B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3472,18 +2392,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3492,18 +2400,6 @@
  <cell>VDDI2</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3548,18 +2444,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3568,18 +2452,6 @@
  <cell>GPIO38PB1/DQS/CCC_SW_PLL1_OUT0</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3624,18 +2496,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3644,18 +2504,6 @@
  <cell>GPIO39NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3700,18 +2548,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -3720,18 +2556,6 @@
  <cell>GPIO44NB1/DQS</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3776,18 +2600,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3796,18 +2608,6 @@
  <cell>GPIO46PB1/CCC_SW_PLL0_OUT1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3852,18 +2652,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -3872,18 +2660,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -3928,18 +2704,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Probe A</cell>
 </row>
 <row>
@@ -3948,18 +2712,6 @@
  <cell>GPIO52NB1/LPRB_B</cell>
  <cell>Bank1</cell>
  <cell>User Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4004,18 +2756,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4024,18 +2764,6 @@
  <cell>GPIO3NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4080,18 +2808,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -4100,18 +2816,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4156,18 +2860,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4176,18 +2868,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4232,18 +2912,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4252,18 +2920,6 @@
  <cell>MSSIO22B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4308,18 +2964,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4328,18 +2972,6 @@
  <cell>MSSIO28B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4384,18 +3016,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4404,18 +3024,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4460,18 +3068,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4480,18 +3076,6 @@
  <cell>GPIO36PB1/CCC_SW_CLKIN_S_0</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4536,18 +3120,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4556,18 +3128,6 @@
  <cell>GPIO42PB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4612,18 +3172,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -4632,18 +3180,6 @@
  <cell>GPIO46NB1</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4688,18 +3224,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4708,18 +3232,6 @@
  <cell>GPIO50PB1/DQS</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4764,18 +3276,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4784,18 +3284,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4840,18 +3328,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4860,18 +3336,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4916,18 +3380,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -4936,18 +3388,6 @@
  <cell>GPIO2NB1/DQS</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -4992,18 +3432,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5012,18 +3440,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5068,18 +3484,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5088,18 +3492,6 @@
  <cell>MSSIO19B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5144,18 +3536,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -5164,18 +3544,6 @@
  <cell>MSSIO36B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5220,18 +3588,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5240,18 +3596,6 @@
  <cell>MSSIO30B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5296,18 +3640,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect to VSS through resistor (10K ohm),CLAMP=OFF</cell>
 </row>
 <row>
@@ -5316,18 +3648,6 @@
  <cell>VDDI3</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5372,18 +3692,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5392,18 +3700,6 @@
  <cell>TCK</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5448,18 +3744,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5468,18 +3752,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5524,18 +3796,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -5544,18 +3804,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5600,18 +3848,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5620,18 +3856,6 @@
  <cell>GPIO0PB1/CLKIN_S_8/CCC_SE_CLKIN_S_8/CCC_SE_PLL0_OUT0</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5676,18 +3900,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5696,18 +3908,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5752,18 +3952,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -5772,18 +3960,6 @@
  <cell>GPIO2PB1/DQS/CCC_SE_PLL1_OUT0</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5828,18 +4004,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -5848,18 +4012,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5904,18 +4056,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -5924,18 +4064,6 @@
  <cell>MSSIO15B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -5980,18 +4108,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6000,18 +4116,6 @@
  <cell>MSSIO25B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6056,18 +4160,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI2 to 1.2v/1.5v/1.8v/2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -6076,18 +4168,6 @@
  <cell>MSSIO21B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6132,18 +4212,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6152,18 +4220,6 @@
  <cell>SDO</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6208,18 +4264,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6228,18 +4272,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6284,18 +4316,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6304,18 +4324,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6360,18 +4368,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6380,18 +4376,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6436,18 +4420,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -6456,18 +4428,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6512,18 +4472,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6532,18 +4480,6 @@
  <cell>GPIO1PB1/CLKIN_S_9/CCC_SE_CLKIN_S_9</cell>
  <cell>Bank1</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6588,18 +4524,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -6608,18 +4532,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6664,18 +4576,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -6684,18 +4584,6 @@
  <cell>XCVR_0_TX0_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6740,18 +4628,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined</cell>
 </row>
 <row>
@@ -6760,18 +4636,6 @@
  <cell>VDDI2</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6816,18 +4680,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6836,18 +4688,6 @@
  <cell>MSSIO20B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6892,18 +4732,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -6912,18 +4740,6 @@
  <cell>MSSIO16B2</cell>
  <cell>Bank2</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -6968,18 +4784,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -6988,18 +4792,6 @@
  <cell>SS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7044,18 +4836,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect to VDDI3 through 1k ohm resistor per pin (not to be shared with any other pins),CLAMP=OFF</cell>
 </row>
 <row>
@@ -7064,18 +4844,6 @@
  <cell>TDI</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7120,18 +4888,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7140,18 +4896,6 @@
  <cell>VDDI1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7196,18 +4940,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7216,18 +4948,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7272,18 +4992,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7292,18 +5000,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7348,18 +5044,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -7368,18 +5052,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7424,18 +5096,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -7444,18 +5104,6 @@
  <cell>XCVR_0_RX0_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7500,18 +5148,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity</cell>
 </row>
 <row>
@@ -7520,18 +5156,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7576,18 +5200,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -7596,18 +5208,6 @@
  <cell>MSSIO2B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7652,18 +5252,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7672,18 +5260,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7728,18 +5304,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7748,18 +5312,6 @@
  <cell>MSSIO12B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7804,18 +5356,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -7824,18 +5364,6 @@
  <cell>DEVRST_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7880,18 +5408,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD25 to 2.5v</cell>
 </row>
 <row>
@@ -7900,18 +5416,6 @@
  <cell>IO_CFG_INTF</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -7956,18 +5460,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect to VDDI3 through resistor (10K ohm),CLAMP=OFF</cell>
 </row>
 <row>
@@ -7976,18 +5468,6 @@
  <cell>SPI_EN</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8032,18 +5512,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -8052,18 +5520,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8108,18 +5564,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>2.5v</cell>
 </row>
 <row>
@@ -8128,18 +5572,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8184,18 +5616,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>2.5v</cell>
 </row>
 <row>
@@ -8204,18 +5624,6 @@
  <cell>NC</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8260,18 +5668,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -8280,18 +5676,6 @@
  <cell>XCVR_VREF</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8336,18 +5720,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -8356,18 +5728,6 @@
  <cell>XCVR_0_TX1_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8412,18 +5772,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined</cell>
 </row>
 <row>
@@ -8432,18 +5780,6 @@
  <cell>MSSIO0B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8488,18 +5824,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -8508,18 +5832,6 @@
  <cell>MSSIO10B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8564,18 +5876,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -8584,18 +5884,6 @@
  <cell>VDDI4</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8640,18 +5928,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -8660,18 +5936,6 @@
  <cell>MSSIO5B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8716,18 +5980,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -8736,18 +5988,6 @@
  <cell>VDDAUX1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8792,18 +6032,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -8812,18 +6040,6 @@
  <cell>VDDI3</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8868,18 +6084,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -8888,18 +6092,6 @@
  <cell>VDDAUX1</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -8944,18 +6136,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -8964,18 +6144,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9020,18 +6188,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -9040,18 +6196,6 @@
  <cell>VDD25</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9096,18 +6240,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDA25 to 2.5v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -9116,18 +6248,6 @@
  <cell>XCVR_0C_REFCLK_P</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9172,18 +6292,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity,CLAMP=OFF</cell>
 </row>
 <row>
@@ -9192,18 +6300,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9248,18 +6344,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -9268,18 +6352,6 @@
  <cell>MSS_DDR_CKE0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9324,18 +6396,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI4 to 1.2v/1.5v/1.8v/2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -9344,18 +6404,6 @@
  <cell>MSSIO6B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9400,18 +6448,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=OFF</cell>
 </row>
 <row>
@@ -9420,18 +6456,6 @@
  <cell>MSSIO1B4</cell>
  <cell>Bank4</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9476,18 +6500,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -9496,18 +6508,6 @@
  <cell>MSS_SGMII_RXN1</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9552,18 +6552,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDAUX2 to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -9572,18 +6560,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9628,18 +6604,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>2.5v</cell>
 </row>
 <row>
@@ -9648,18 +6612,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9704,18 +6656,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -9724,18 +6664,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9780,18 +6708,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -9800,18 +6716,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9856,18 +6760,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -9876,18 +6768,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -9932,18 +6812,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD_XCVR_CLK to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -9952,18 +6820,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10008,18 +6864,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10028,18 +6872,6 @@
  <cell>XCVR_0_RX1_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10084,18 +6916,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity</cell>
 </row>
 <row>
@@ -10104,18 +6924,6 @@
  <cell>MSS_DDR_ODT0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10160,18 +6968,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -10180,18 +6976,6 @@
  <cell>MSS_DDR_CS0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10236,18 +7020,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10256,18 +7028,6 @@
  <cell>MSS_SGMII_RXP0</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10312,28 +7072,14 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
  <cell>L7</cell>
- <cell>REFCLK</cell>
+ <cell>---</cell>
  <cell>MSS_REFCLK_IN_P</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>LVDS25</cell>
- <cell>Input</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10352,26 +7098,14 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>OFF</cell>
- <cell>100</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>REFCLK</cell>
+ <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity,CLAMP=OFF</cell>
 </row>
 <row>
  <cell>L8</cell>
- <cell>REFCLK_N</cell>
+ <cell>---</cell>
  <cell>MSS_REFCLK_IN_N</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>LVDS25</cell>
- <cell>Input</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10390,17 +7124,7 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>OFF</cell>
- <cell>100</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>REFCLK_N</cell>
+ <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity,CLAMP=OFF</cell>
 </row>
 <row>
  <cell>L9</cell>
@@ -10408,18 +7132,6 @@
  <cell>VDDAUX2</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10464,18 +7176,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10484,18 +7184,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10540,18 +7228,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10560,18 +7236,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10616,18 +7280,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10636,18 +7288,6 @@
  <cell>VDD25</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10692,18 +7332,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10712,18 +7340,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10768,18 +7384,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10788,18 +7392,6 @@
  <cell>XCVR_0A_REFCLK_P</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10844,18 +7436,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity,CLAMP=OFF</cell>
 </row>
 <row>
@@ -10864,18 +7444,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10920,18 +7488,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -10940,18 +7496,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -10996,18 +7540,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -11016,18 +7548,6 @@
  <cell>MSS_DDR_CS1</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11072,18 +7592,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -11092,18 +7600,6 @@
  <cell>MSS_DDR_PARITY</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11148,19 +7644,7 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>3.3v</cell>
+ <cell>Must connect VDDI5 to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
  <cell>M7</cell>
@@ -11168,18 +7652,6 @@
  <cell>MSS_SGMII_TXP1</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11224,19 +7696,7 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>3.3v</cell>
+ <cell>Must connect VDDI5 to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
  <cell>M9</cell>
@@ -11244,18 +7704,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11300,18 +7748,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDAUX4 to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -11320,18 +7756,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11376,18 +7800,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -11396,18 +7808,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11452,18 +7852,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -11472,18 +7860,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11528,18 +7904,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.0v</cell>
 </row>
 <row>
@@ -11548,18 +7912,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11604,18 +7956,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDA25 to 2.5v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -11624,18 +7964,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11680,18 +8008,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -11700,18 +8016,6 @@
  <cell>XCVR_0_RX2_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11756,18 +8060,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity</cell>
 </row>
 <row>
@@ -11776,18 +8068,6 @@
  <cell>MSS_DDR_BG0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11832,18 +8112,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -11852,18 +8120,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11908,18 +8164,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -11928,18 +8172,6 @@
  <cell>MSS_DDR_ACT_N</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -11984,18 +8216,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12004,18 +8224,6 @@
  <cell>MSS_SGMII_TXN0</cell>
  <cell>Bank5</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12060,18 +8268,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12080,18 +8276,6 @@
  <cell>VDDAUX4</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12136,18 +8320,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12156,18 +8328,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12212,18 +8372,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12232,18 +8380,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12288,18 +8424,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12308,18 +8432,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12364,18 +8476,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12384,18 +8484,6 @@
  <cell>VDD</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12440,18 +8528,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12460,18 +8536,6 @@
  <cell>XCVR_0B_REFCLK_P</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12516,18 +8580,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity,CLAMP=OFF</cell>
 </row>
 <row>
@@ -12536,18 +8588,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12592,18 +8632,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -12612,18 +8640,6 @@
  <cell>MSS_DDR_A12</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12668,18 +8684,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12688,18 +8692,6 @@
  <cell>MSS_DDR_A14</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12744,18 +8736,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12764,18 +8744,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12820,18 +8788,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12840,18 +8796,6 @@
  <cell>MSS_DDR_A8</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12896,18 +8840,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -12916,18 +8848,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -12972,18 +8892,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD18 to 1.8v</cell>
 </row>
 <row>
@@ -12992,18 +8900,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13048,18 +8944,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD18 to 1.8v</cell>
 </row>
 <row>
@@ -13068,18 +8952,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13124,18 +8996,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD18 to 1.8v</cell>
 </row>
 <row>
@@ -13144,18 +9004,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13200,18 +9048,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD18 to 1.8v</cell>
 </row>
 <row>
@@ -13220,18 +9056,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13276,18 +9100,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDD_XCVR_CLK to 2.5v/3.3v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -13296,18 +9108,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13352,18 +9152,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -13372,18 +9160,6 @@
  <cell>XCVR_0_TX2_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13428,18 +9204,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined</cell>
 </row>
 <row>
@@ -13448,18 +9212,6 @@
  <cell>MSS_DDR_A11</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13504,18 +9256,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -13524,18 +9264,6 @@
  <cell>MSS_DDR_A15</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13580,18 +9308,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -13600,18 +9316,6 @@
  <cell>MSS_DDR_A5</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13656,18 +9360,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -13676,18 +9368,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13732,18 +9412,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -13752,18 +9420,6 @@
  <cell>VDD25</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13808,18 +9464,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -13828,18 +9472,6 @@
  <cell>MSS_DDR_DQ28</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13884,18 +9516,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -13904,18 +9524,6 @@
  <cell>VDD18</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -13960,18 +9568,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -13980,18 +9576,6 @@
  <cell>HSIO17PB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14036,18 +9620,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -14056,18 +9628,6 @@
  <cell>VDD25</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14112,18 +9672,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -14132,18 +9680,6 @@
  <cell>XCVR_0_RX3_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14188,18 +9724,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined, add on-board connect to VSS through resistor (100K ohm) for higher noise immunity</cell>
 </row>
 <row>
@@ -14208,18 +9732,6 @@
  <cell>VDDA</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14264,18 +9776,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -14284,18 +9784,6 @@
  <cell>MSS_DDR_CK1/DDR_PLL0_OUT0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14340,18 +9828,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -14360,18 +9836,6 @@
  <cell>MSS_DDR_BA1</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14416,18 +9880,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI6 to 1.2v/1.5v/1.8v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -14436,18 +9888,6 @@
  <cell>MSS_DDR_A0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14492,18 +9932,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -14512,18 +9940,6 @@
  <cell>MSS_DDR_A7</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14568,18 +9984,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -14588,18 +9992,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14644,18 +10036,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -14664,18 +10044,6 @@
  <cell>MSS_DDR_DQ26</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14720,18 +10088,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -14740,18 +10096,6 @@
  <cell>HSIO35NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14796,18 +10140,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -14816,18 +10148,6 @@
  <cell>HSIO31NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14872,18 +10192,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -14892,18 +10200,6 @@
  <cell>HSIO13PB0/CCC_NE_PLL1_OUT1</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -14948,18 +10244,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -14968,18 +10252,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15024,18 +10296,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -15044,18 +10304,6 @@
  <cell>XCVR_0_TX3_N</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15100,18 +10348,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined</cell>
 </row>
 <row>
@@ -15120,18 +10356,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15176,18 +10400,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -15196,18 +10408,6 @@
  <cell>MSS_DDR3_WE_N</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15252,18 +10452,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -15272,18 +10460,6 @@
  <cell>MSS_DDR_CK0/DDR_PLL0_OUT0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15328,18 +10504,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -15348,18 +10512,6 @@
  <cell>MSS_DDR_A9</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15404,18 +10556,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -15424,18 +10564,6 @@
  <cell>MSS_DDR_DQS_P3</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15480,18 +10608,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -15500,18 +10616,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15556,18 +10660,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -15576,18 +10668,6 @@
  <cell>HSIO33NB0/DQS</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15632,18 +10712,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -15652,18 +10720,6 @@
  <cell>HSIO31PB0/CCC_NW_PLL1_OUT1</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15708,18 +10764,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -15728,18 +10772,6 @@
  <cell>HSIO13NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15784,18 +10816,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -15804,18 +10824,6 @@
  <cell>HSIO14PB0/CLKIN_N_8/CCC_NE_CLKIN_N_8/CCC_NE_PLL1_OUT0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15860,18 +10868,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -15880,18 +10876,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -15936,18 +10920,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -15956,18 +10928,6 @@
  <cell>MSS_DDR_DQS_N4</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16012,18 +10972,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -16032,18 +10980,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16088,18 +11024,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -16108,18 +11032,6 @@
  <cell>MSS_DDR_DM4</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16164,18 +11076,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -16184,18 +11084,6 @@
  <cell>MSS_DDR_A2</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16240,18 +11128,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI6 to 1.2v/1.5v/1.8v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -16260,18 +11136,6 @@
  <cell>MSS_DDR_DQS_N3</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16316,18 +11180,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -16336,18 +11188,6 @@
  <cell>MSS_DDR_DQ20</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16392,18 +11232,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -16412,18 +11240,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16468,18 +11284,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[8]</cell>
 </row>
 <row>
@@ -16506,18 +11310,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[7]</cell>
 </row>
 <row>
@@ -16526,18 +11318,6 @@
  <cell>HSIO16NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16582,18 +11362,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -16602,18 +11370,6 @@
  <cell>VDDI0</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16658,18 +11414,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[5]</cell>
 </row>
 <row>
@@ -16696,18 +11440,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[6]</cell>
 </row>
 <row>
@@ -16734,18 +11466,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[9]</cell>
 </row>
 <row>
@@ -16772,18 +11492,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[3]</cell>
 </row>
 <row>
@@ -16792,18 +11500,6 @@
  <cell>MSS_DDR_DQ35</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16848,18 +11544,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -16868,18 +11552,6 @@
  <cell>MSS_DDR_DQ33</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -16924,18 +11596,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -16944,18 +11604,6 @@
  <cell>VDDI6</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17000,18 +11648,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -17020,18 +11656,6 @@
  <cell>MSS_DDR_DQ9</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17076,18 +11700,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -17096,18 +11708,6 @@
  <cell>MSS_DDR_DQ17</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17152,18 +11752,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -17172,18 +11760,6 @@
  <cell>MSS_DDR_DQ23</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17228,18 +11804,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -17248,18 +11812,6 @@
  <cell>HSIO29PB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17304,18 +11856,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -17324,18 +11864,6 @@
  <cell>VDDI0</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17380,18 +11908,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -17400,18 +11916,6 @@
  <cell>HSIO23NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17456,18 +11960,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -17476,18 +11968,6 @@
  <cell>HSIO19PB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17532,18 +12012,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>VSS</cell>
 </row>
 <row>
@@ -17570,18 +12038,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[10]</cell>
 </row>
 <row>
@@ -17608,18 +12064,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[4]</cell>
 </row>
 <row>
@@ -17628,18 +12072,6 @@
  <cell>MSS_DDR_DQ2</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17684,18 +12116,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>Must connect VDDI6 to 1.2v/1.5v/1.8v or to VSS through resistor (10K ohm)</cell>
 </row>
 <row>
@@ -17704,18 +12124,6 @@
  <cell>MSS_DDR_DQ0</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17760,18 +12168,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -17780,18 +12176,6 @@
  <cell>MSS_DDR_DQ4</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17836,18 +12220,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -17856,18 +12228,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17912,18 +12272,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -17932,18 +12280,6 @@
  <cell>MSS_DDR_DQ16</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -17988,18 +12324,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull down,CLAMP=ON</cell>
 </row>
 <row>
@@ -18008,18 +12332,6 @@
  <cell>MSS_DDR_DQ22</cell>
  <cell>Bank6</cell>
  <cell>Special</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -18064,18 +12376,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>1.8v</cell>
 </row>
 <row>
@@ -18084,18 +12384,6 @@
  <cell>HSIO29NB0</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -18140,18 +12428,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -18160,18 +12436,6 @@
  <cell>HSIO25PB0/CCC_NW_PLL0_OUT1</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -18216,18 +12480,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -18236,18 +12488,6 @@
  <cell>VSS</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -18292,18 +12532,6 @@
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>DNC, Libero Defined High-Z with weak pull up ON,CLAMP=ON</cell>
 </row>
 <row>
@@ -18312,18 +12540,6 @@
  <cell>HSIO20PB0/CLKIN_N_6</cell>
  <cell>Bank0</cell>
  <cell>Unassigned</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
@@ -18368,18 +12584,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[12]</cell>
 </row>
 <row>
@@ -18406,18 +12610,6 @@
  <cell>5</cell>
  <cell>---</cell>
  <cell>OFF</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>LEDS[11]</cell>
 </row>
 <row>
@@ -18426,18 +12618,6 @@
  <cell>VDDI0</cell>
  <cell>---</cell>
  <cell>Reserved</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
- <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>
  <cell>---</cell>

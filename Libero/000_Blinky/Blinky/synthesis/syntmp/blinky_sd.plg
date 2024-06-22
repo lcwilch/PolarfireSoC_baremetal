@@ -12,5 +12,5 @@
 @P: blinky_sd Part : mpfs025tfcvg484std
 @P: blinky_sd Register bits  : 41 
 @P: blinky_sd DSP Blocks  : 0
-@P: blinky_sd I/O primitives : 13
-@P:  CPU Time : 0h:00m:02s
+@P: blinky_sd I/O primitives : 12
+@P:  CPU Time : 0h:00m:00s

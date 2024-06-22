@@ -10,13 +10,13 @@ Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
 OS: Ubuntu 22.04.4 LTS
 Hostname: SER7-22
 max virtual memory: unlimited (bytes)
-max user processes: 110736
+max user processes: 110760
 max stack size: 8388608 (bytes)
 
 
 Implementation : synthesis
 
-# Written on Sat Jun 22 08:00:09 2024
+# Written on Sat Jun 22 12:26:39 2024
 
 ##### FILES SYNTAX CHECKED ##############################################
 Constraint File(s):      "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/synthesis.fdc"
