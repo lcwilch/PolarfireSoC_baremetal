@@ -16,7 +16,7 @@ max stack size: 8388608 (bytes)
 
 Implementation : synthesis
 
-# Written on Mon Jun  3 21:53:30 2024
+# Written on Sat Jun 22 08:00:09 2024
 
 ##### FILES SYNTAX CHECKED ##############################################
 Constraint File(s):      "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/synthesis.fdc"
@@ -48,5 +48,5 @@ Clock Load Summary
 Clock                                       Load      Pin                                                     Seq Example                                      Seq Example       Comb Example                                 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 osc_rc160mhz                                1         PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160.CLK(OSC_RC160MHZ)     PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.REF_CLK_0     -                 PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160_INT.I(BUFG)
-PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0(PLL)            blinky_0.ledsState[14:3].C                       -                 PF_CCC_C0_0.PF_CCC_C0_0.clkint_0.I(BUFG)     
+PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0(PLL)            blinky_0.counter[28:0].C                         -                 PF_CCC_C0_0.PF_CCC_C0_0.clkint_0.I(BUFG)     
 ==============================================================================================================================================================================================================================

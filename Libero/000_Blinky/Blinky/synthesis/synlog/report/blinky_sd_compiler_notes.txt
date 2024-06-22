@@ -19,7 +19,5 @@
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":6:8:6:71|Synthesizing module PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR in library work.
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v":71:7:71:27|Synthesizing module PFSOC_INIT_MONITOR_C0 in library work.
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":9:7:9:15|Synthesizing module blinky_sd in library work.
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":20:14:20:19|Input REFCLK is unused.
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":21:14:21:21|Input REFCLK_N is unused.
 @N|Running in 64-bit mode
 

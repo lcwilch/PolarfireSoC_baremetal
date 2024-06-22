@@ -1,0 +1,135 @@
+#OPTIONS:"|-layerid|0|-orig_srs|/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synwork/blinky_sd_comp.srs|-top|blinky_sd|-prodtype|synplify_pro|-infer_seqShift|-primux|-dspmac|-pqdpadd|-fixsmult|-sdff_counter|-divnmod|-nram|-actel|-I|/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/|-I|/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib|-sysv|-devicelib|/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work"
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/linux_a_64/c_ver":1704385584
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/generic/acg5.v":1704385578
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/hypermods.v":1704385228
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/umr_capim.v":1704305383
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/scemi_objects.v":1704385228
+#CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/scemi_pipes.svh":1704385228
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/polarfire_syn_comps.v":1719014828
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v":1719014628
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/MSS_barebones/MSS_barebones.v":1719014628
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":1717465349
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v":1717465349
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v":1717465308
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_CCC_C0/PF_CCC_C0.v":1717465308
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":1717465012
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_OSC_C0/PF_OSC_C0.v":1717465012
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/hdl/blinky.v":1717465907
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/blinky_sd/blinky_sd.v":1719014811
+0			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/polarfire_syn_comps.v" verilog
+1			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v" verilog
+2			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/MSS_barebones/MSS_barebones.v" verilog
+3			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v" verilog
+4			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v" verilog
+5			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v" verilog
+6			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_CCC_C0/PF_CCC_C0.v" verilog
+7			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v" verilog
+8			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/PF_OSC_C0/PF_OSC_C0.v" verilog
+9			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/hdl/blinky.v" verilog
+10			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/component/work/blinky_sd/blinky_sd.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+1 -1
+2 1
+3 0
+4 3
+5 0
+6 5
+7 0
+8 7
+9 -1
+10 4 8 6 2 9
+#Dependency Lists(Users Of)
+0 7 5 3
+1 2
+2 10
+3 4
+4 10
+5 6
+6 10
+7 8
+8 10
+9 10
+10 -1
+#Design Unit to File Association
+module work blinky_sd 10
+module work blinky 9
+module work PF_OSC_C0 8
+module work PF_OSC_C0_PF_OSC_C0_0_PF_OSC 7
+module work PF_CCC_C0 6
+module work PF_CCC_C0_PF_CCC_C0_0_PF_CCC 5
+module work PFSOC_INIT_MONITOR_C0 4
+module work PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR 3
+module work MSS_barebones 2
+module work MSS 1
+module work CLKBUF_DIFF_ODT 0
+module work CLKBUF_DIFF 0
+module work PFSOC_SCSM 0
+module work CORELNKTMR_V 0
+module work XCVR 0
+module work XCVR_VV 0
+module work XCVR_TEST 0
+module work XCVR_REF_CLK 0
+module work XCVR_REF_CLK_P 0
+module work XCVR_REF_CLK_N 0
+module work XCVR_PMA 0
+module work XCVR_PIPE 0
+module work XCVR_PIPE_AXI1 0
+module work XCVR_PIPE_AXI0 0
+module work XCVR_DUAL_PCS 0
+module work XCVR_APB_LINK_V2 0
+module work XCVR_APB_LINK_V 0
+module work XCVR_APB_LINK 0
+module work XCVR_8B10B 0
+module work XCVR_64B6XB 0
+module work VREFCTRL 0
+module work VREFBANKDYN 0
+module work VOLTAGEDETECT 0
+module work USPI 0
+module work UPROM 0
+module work TX_PLL 0
+module work TVS 0
+module work TAMPER 0
+module work SYS_SERVICES 0
+module work SYSRESET 0
+module work SYSCTRL_RESET_STATUS 0
+module work SCB 0
+module work QUADRST 0
+module work QUADRST_PCIE 0
+module work PLL 0
+module work PF_SPI 0
+module work PCIE 0
+module work PCIE_COMMON 0
+module work OSC_RC2MHZ 0
+module work OSC_RC200MHZ 0
+module work OSC_RC160MHZ 0
+module work LANERST 0
+module work LANECTRL 0
+module work IOD 0
+module work INIT 0
+module work ICB_NGMUX 0
+module work ICB_MUXING 0
+module work ICB_INT 0
+module work ICB_CLKSTOP 0
+module work ICB_CLKSTOP_EN 0
+module work ICB_CLKINT 0
+module work ICB_CLKDIV 0
+module work ICB_CLKDIVDELAY 0
+module work ICB_BANKCLK 0
+module work HS_IO_CLK 0
+module work GPSS_COMMON 0
+module work GLITCHDETECT 0
+module work ENFORCE 0
+module work DRI 0
+module work DLL 0
+module work DEBUG 0
+module work CRYPTO_SOC 0
+module work CRYPTO 0
+module work CRN_INT 0
+module work CRN_COMMON 0
+module work BANKEN 0
+module work BANKCTRL_HSIO 0
+module work BANKCTRL_GPIO 0
+module work BANKCTRLM 0
+module work APBS 0
+module work APBM 0

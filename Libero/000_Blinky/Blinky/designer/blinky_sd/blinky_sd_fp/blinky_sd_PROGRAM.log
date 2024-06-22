@@ -6,7 +6,7 @@ The 'open_project' command succeeded.
 Info: Programming is already enabled for device 'MPFS025T'.
 The 'enable_device' command succeeded.
 PPD file '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/blinky_sd.ppd' has been loaded successfully.
-DESIGN : blinky_sd;  CHECKSUM : 2202;  PDB_VERSION : 1.0
+DESIGN : blinky_sd;  CHECKSUM : AFB5;  PDB_VERSION : 1.0
 The 'set_programming_file' command succeeded.
 The 'set_programming_action' command succeeded.
 programmer 'S20085DQOY' : Scan Chain...
@@ -22,16 +22,16 @@ programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT CRCERR[1] = 0
 programmer 'S20085DQOY' : device 'MPFS025T' : Programming Mode: JTAG
 programmer 'S20085DQOY' : device 'MPFS025T' : Programming FPGA Array and sNVM...
 programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT BITS component bitstream digest[256] = 743c84a51bb8f09c698540b2227ead42bbe263b008451c7bc9a18da54c0d78e5
-programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT Fabric component bitstream digest[256] = 702ee0d6c90ec4a0148b5f9309983cb1a349f17fda84f83c0835862f3287fc47
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT Fabric component bitstream digest[256] = 9470fc65a8cd9dc345cb28de6bc6a14c0310922cbbdda340e5887294111601da
 programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT sNVM component bitstream digest[256] = b0a9e2be29f47fa951a6a131a8dd9a9016e5ba87de5833c742b7f654428ea6e7
-programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT EOB component bitstream digest[256] = b2c3a4dc204d558fb7ac422b952b1e790d6e6e38056e5a2dd82a0ec6f95ecdb4
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT EOB component bitstream digest[256] = 6c17949eb538c6a4dd30d390b63f08a74253c039bc76a1459aa98a04086ac512
 programmer 'S20085DQOY' : device 'MPFS025T' : ===================================================================================
 programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT DSN[128] = db54da78ae3def6740b7c22785ceaa98
 programmer 'S20085DQOY' : device 'MPFS025T' : ===================================================================================
-programmer 'S20085DQOY' : device 'MPFS025T' : Finished: Mon Jun  3 21:57:23 2024 (Elapsed time 00:01:01)
+programmer 'S20085DQOY' : device 'MPFS025T' : Finished: Sat Jun 22 08:03:30 2024 (Elapsed time 00:01:01)
 programmer 'S20085DQOY' : device 'MPFS025T' : Executing action PROGRAM PASSED.
 programmer 'S20085DQOY' : Chain programming PASSED.
-Chain Programming Finished: Mon Jun  3 21:57:23 2024 (Elapsed time 00:01:01)
+Chain Programming Finished: Sat Jun 22 08:03:30 2024 (Elapsed time 00:01:01)
 
                         o - o - o - o - o - o
 

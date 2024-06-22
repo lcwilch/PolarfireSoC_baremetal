@@ -1,0 +1,101 @@
+# Microchip NMAT TXT File
+
+# Version: 2024.1 2024.1.0.3
+
+# Design Name: blinky_sd 
+
+# Input Netlist Format: EDIF 
+
+# Family: PolarFireSoC , Die: MPFS025T , Package: FCVG484 , Speed grade: STD 
+
+# Date generated: Fri Jun 21 21:12:53 2024 
+
+
+#
+# I/O constraints
+#
+
+set_io LEDS[3] V22
+set_io LEDS[4] W22
+set_io LEDS[5] V19
+set_io LEDS[6] V20
+set_io LEDS[7] V15
+set_io LEDS[8] V14
+set_io LEDS[9] V21
+set_io LEDS[10] W21
+set_io LEDS[11] Y21
+set_io LEDS[12] Y20
+set_io LEDS[13] B10
+set_io LEDS[14] B9
+set_io REFCLK L7
+set_io REFCLK_N L8
+set_io TCK W13
+set_io TDI AA21
+set_io TDO W18
+set_io TDO_OE AA22
+set_io TMS T12
+set_io TRSTB AB18
+
+#
+# Core cell constraints
+#
+
+set_location blinky_0/ledsState[12] 939 136
+set_location blinky_0/counter[27] 969 136
+set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1 726 150
+set_location blinky_0/counter[11] 953 136
+set_location blinky_0/counter[22] 964 136
+set_location blinky_0/counter[24] 966 136
+set_location blinky_0/counter_RNO[0] 941 135
+set_location blinky_0/counter[20] 962 136
+set_location blinky_0/ledsState[6] 959 139
+set_location blinky_0/counter[4] 946 136
+set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0_1 12 2
+set_location blinky_0/ledsState[4] 954 139
+set_location blinky_0/counter[25] 967 136
+set_location blinky_0/counter[7] 949 136
+set_location blinky_0/counter[19] 961 136
+set_location blinky_0/ledsState[7] 949 139
+set_location blinky_0/counter[21] 963 136
+set_location blinky_0/counter[3] 945 136
+set_location blinky_0/ledsState[5] 953 139
+set_location blinky_0/counter[1] 943 136
+set_location blinky_0/counter[5] 947 136
+set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_DELAY 7 7
+set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_1 4 7
+set_location blinky_0/counter[8] 950 136
+set_location blinky_0/ledsState[13] 936 136
+set_location blinky_0/counter[18] 960 136
+set_location blinky_0/ledsState[9] 952 139
+set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT 721 0
+set_location blinky_0/counter[13] 955 136
+set_location blinky_0/counter[6] 948 136
+set_location blinky_0/ledsState[11] 940 136
+set_location blinky_0/counter[2] 944 136
+set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160 656 5
+set_location blinky_0/counter[0] 941 136
+set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0 720 0
+set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT_1 721 8
+set_location blinky_0/ledsState[10] 951 139
+set_location blinky_0/counter[28] 970 136
+set_location blinky_0/counter[16] 958 136
+set_location blinky_0/ledsState[14] 950 139
+set_location blinky_0/counter[17] 959 136
+set_location PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT/U0_RGB1 723 15
+set_location PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0 0 8
+set_location blinky_0/counter[23] 965 136
+set_location blinky_0/counter[12] 954 136
+set_location PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_0/I_INIT 652 5
+set_location blinky_0/ledsState[3] 971 136
+set_location blinky_0/counter[14] 956 136
+set_location blinky_0/ledsState[8] 948 139
+set_location blinky_0/counter[10] 952 136
+set_location MSS_barebones_0/I_MSS 737 215
+set_location blinky_0/counter[15] 957 136
+set_location blinky_0/counter[9] 951 136
+set_location blinky_0/counter[26] 968 136
+set_location blinky_0/counter_s_1 942 135
+set_location PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1_RGB0 726 123
+set_location blinky_0/counter_s_1_CC_0 942 137
+set_location blinky_0/counter_s_1_CC_1 948 137
+set_location blinky_0/counter_s_1_CC_2 960 137

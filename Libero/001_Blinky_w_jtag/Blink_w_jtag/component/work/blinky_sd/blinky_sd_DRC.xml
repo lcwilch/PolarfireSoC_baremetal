@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>blinky_sd</header>
+  <drc>
+    <status>/usr/local/microchip/Libero_SoC_v2024.1/Libero/data/drcreport/warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin MSS_barebones_0:PLL_CPU_LOCK_M2F</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/blinky_sd/pins/MSS_barebones_0:PLL_CPU_LOCK_M2F</crossprobe>
+  </drc>
+  <drc>
+    <status>/usr/local/microchip/Libero_SoC_v2024.1/Libero/data/drcreport/warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin MSS_barebones_0:MSS_RESET_N_M2F</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/blinky_sd/pins/MSS_barebones_0:MSS_RESET_N_M2F</crossprobe>
+  </drc>
+</drcreport>

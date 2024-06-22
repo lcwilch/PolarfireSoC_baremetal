@@ -14,3 +14,6 @@ BeagleV-Fire schematic
 
 # Source:
 ESW projects targeting various functionality of the MPFS using U54 core complex
+
+# Debug
+Debug utilities, like openocd and fpserver for debuging MPFS with flashpro

@@ -6,7 +6,7 @@
 <text>Family: PolarFireSoC</text>
 <text>Die: MPFS025T</text>
 <text>Package: FCVG484</text>
-<text>Date: Mon Jun  3 21:55:50 2024
+<text>Date: Sat Jun 22 08:01:58 2024
 </text>
 <text>Report path: /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/Design_Initialization_Data_Report.xml</text>
 <section>
@@ -19,7 +19,7 @@ PolarFireSoC Macros</name>
 </header>
 <row>
  <cell>MSS</cell>
- <cell>No</cell>
+ <cell>Yes</cell>
 </row>
 <row>
  <cell>PFSOC_SCSM</cell>
@@ -52,7 +52,7 @@ INFO: The PUFT timing numbers reflect the time elapsed between the assertion of 
 </header>
 <row>
  <cell>Crypto</cell>
- <cell>No</cell>
+ <cell>Yes</cell>
 </row>
 </table>
 </section>
@@ -8408,6 +8408,164 @@ INFO: The PUFT timing numbers reflect the time elapsed between the assertion of 
  <cell>0x00000001</cell>
  <cell>Yes</cell>
  <cell>N/A</cell>
+</row>
+</table>
+<text>Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.</text>
+</section>
+<section>
+<name>MSS   (MSS_barebones_0/I_MSS)</name>
+<table>
+<header>
+ <cell>Register Name</cell>
+ <cell>Address</cell>
+ <cell>Silicon Default Value</cell>
+ <cell>Configured Value</cell>
+ <cell>Modified</cell>
+ <cell>Lock Value(*)</cell>
+</header>
+<row>
+ <cell>CRYPTO_DLL_CTRL0</cell>
+ <cell>0x7010004</cell>
+ <cell>0x8800000F</cell>
+ <cell>0x8810000F</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>CRYPTO_DLL_CTRL1</cell>
+ <cell>0x7010008</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>CRYPTO_DLL_STAT0</cell>
+ <cell>0x701000C</cell>
+ <cell>0x00001801</cell>
+ <cell>0x00001800</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>CRYPTO_CONTROL_USER</cell>
+ <cell>0x7010040</cell>
+ <cell>0x00000006</cell>
+ <cell>0x000000EC</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>CRYPTO_INTERRUPT_ENABLE</cell>
+ <cell>0x701004C</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>CRYPTO_MARGIN</cell>
+ <cell>0x7010060</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL0_CTRL0</cell>
+ <cell>0x7040200</cell>
+ <cell>0x8800000F</cell>
+ <cell>0x8810000F</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL0_CTRL1</cell>
+ <cell>0x7040204</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL0_STAT0</cell>
+ <cell>0x7040208</cell>
+ <cell>0x00001003</cell>
+ <cell>0x00001000</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL1_CTRL0</cell>
+ <cell>0x7040220</cell>
+ <cell>0x8800000F</cell>
+ <cell>0x8810000F</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL1_CTRL1</cell>
+ <cell>0x7040224</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL1_STAT0</cell>
+ <cell>0x7040228</cell>
+ <cell>0x00001003</cell>
+ <cell>0x00001000</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL2_CTRL0</cell>
+ <cell>0x7040240</cell>
+ <cell>0x8800000F</cell>
+ <cell>0x8810000F</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL2_CTRL1</cell>
+ <cell>0x7040244</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL2_STAT0</cell>
+ <cell>0x7040248</cell>
+ <cell>0x00001003</cell>
+ <cell>0x00001000</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL3_CTRL0</cell>
+ <cell>0x7040260</cell>
+ <cell>0x8800000F</cell>
+ <cell>0x8810000F</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL3_CTRL1</cell>
+ <cell>0x7040264</cell>
+ <cell>0x00000000</cell>
+ <cell>0x00000000</cell>
+ <cell>No</cell>
+ <cell>1</cell>
+</row>
+<row>
+ <cell>SCB_REGS_DLL3_STAT0</cell>
+ <cell>0x7040268</cell>
+ <cell>0x00001003</cell>
+ <cell>0x00001000</cell>
+ <cell>Yes</cell>
+ <cell>1</cell>
 </row>
 </table>
 <text>Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.</text>

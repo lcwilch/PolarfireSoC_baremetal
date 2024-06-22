@@ -1,0 +1,8 @@
+/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter  -link  -top  blinky_sd  -multisrs  /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synwork/blinky_sd_comp.srs  -osyn  /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synwork/blinky_sd_mult.srs  -log  /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synlog/blinky_sd_multi_srs_gen.srr 
+relcom:/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter -link -top blinky_sd -multisrs ../synwork/blinky_sd_comp.srs -osyn ../synwork/blinky_sd_mult.srs -log ../synlog/blinky_sd_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:../synwork/blinky_sd_comp.srs|io:i|time:1719014830|size:143251|exec:0|csum:4D7A135F7FA97E3952FDC55A308D8353
+file:../synwork/blinky_sd_mult.srs|io:o|time:1719014831|size:3774|exec:0|csum:
+file:../synlog/blinky_sd_multi_srs_gen.srr|io:o|time:1719014831|size:1276|exec:0|csum:
+file:/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/linux_a_64/syn_nfilter|io:i|time:1704385587|size:18297968|exec:1|csum:56C4D3F9F9569243A8752F354AB51E25
+file:/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/bin/syn_nfilter|io:i|time:1704385234|size:368|exec:1|csum:004E4455B64BA10AD6A92FB2301610E0

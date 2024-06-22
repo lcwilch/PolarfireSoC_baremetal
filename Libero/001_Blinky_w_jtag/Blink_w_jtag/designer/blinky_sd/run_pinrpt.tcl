@@ -1,0 +1,11 @@
+DESIGN=blinky_sd
+DESDIR=/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/designer/blinky_sd
+TARGET_DIR=/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/designer/blinky_sd
+FAM=PolarFireSoC
+DIE=PA5SOC025T
+PACKAGE=fcvg484
+PINRPT_BY_NAME=1
+PINRPT_BY_NUMBER=1
+PINRPT_BOARDLAYOUT=1
+BANK_REPORT=1
+IOREG_REPORT=1

@@ -3,7 +3,7 @@
 #OS: Linux 
 #Hostname: SER7-22
 
-# Mon Jun  3 21:53:28 2024
+# Sat Jun 22 08:00:07 2024
 
 #Implementation: synthesis
 
@@ -209,6 +209,8 @@ Synopsys Verilog Compiler, Version comp202309synp1, Build 146R, Built Jan  4 202
 @I::"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v" (library work)
 @N|stack limit increased to max
 Verilog syntax check successful!
+File /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v changed - recompiling
+File /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v changed - recompiling
 Selecting top level module blinky_sd
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":1:7:1:12|Synthesizing module blinky in library work.
 Running optimization stage 1 on blinky .......
@@ -269,12 +271,9 @@ Running optimization stage 1 on PFSOC_INIT_MONITOR_C0 .......
 Finished optimization stage 1 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":9:7:9:15|Synthesizing module blinky_sd in library work.
 Running optimization stage 1 on blinky_sd .......
-@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":79:22:79:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
-@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":53:14:53:28|Removing instance MSS_barebones_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":88:22:88:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
 Finished optimization stage 1 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on blinky_sd .......
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":20:14:20:19|Input REFCLK is unused.
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":21:14:21:21|Input REFCLK_N is unused.
 Finished optimization stage 2 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on PFSOC_INIT_MONITOR_C0 .......
 Finished optimization stage 2 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
@@ -320,7 +319,7 @@ At c_ver Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Mon Jun  3 21:53:29 2024
+# Sat Jun 22 08:00:07 2024
 
 ###########################################################]
 ###########################################################[
@@ -344,13 +343,14 @@ Implementation : synthesis
 Synopsys Synopsys Netlist Linker, Version comp202309synp1, Build 146R, Built Jan  4 2024 08:24:09, @5131170
 
 @N|Running in 64-bit mode
+File /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/layer0.srs changed - recompiling
 
-At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 186MB peak: 186MB)
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 191MB peak: 191MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Mon Jun  3 21:53:29 2024
+# Sat Jun 22 08:00:07 2024
 
 ###########################################################]
 
@@ -365,7 +365,7 @@ At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Mon Jun  3 21:53:29 2024
+# Sat Jun 22 08:00:07 2024
 
 ###########################################################]
 ###########################################################[
@@ -389,18 +389,19 @@ Implementation : synthesis
 Synopsys Synopsys Netlist Linker, Version comp202309synp1, Build 146R, Built Jan  4 2024 08:24:09, @5131170
 
 @N|Running in 64-bit mode
+File /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/blinky_sd_comp.srs changed - recompiling
 
-At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 187MB peak: 187MB)
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 191MB peak: 191MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
 
 Process completed successfully.
-# Mon Jun  3 21:53:30 2024
+# Sat Jun 22 08:00:09 2024
 
 ###########################################################]
 Premap Report
 
-# Mon Jun  3 21:53:30 2024
+# Sat Jun 22 08:00:09 2024
 
 
 Copyright (C) 1994-2023 Synopsys, Inc.
@@ -450,23 +451,23 @@ Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h
 
 Vector Gate Optimization Enabled: Optimizing  Partial Hanging Logic. 
 NConnInternalConnection caching is on
-@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:9|User-specified initial value defined for instance blinky_0.counter[28:0] is being ignored due to limitations in architecture. 
-@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:9|User-specified initial value defined for instance blinky_0.ledsState[14:3] is being ignored due to limitations in architecture. 
+@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|User-specified initial value defined for instance blinky_0.ledsState[14:3] is being ignored due to limitations in architecture. 
+@W: FX1172 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|User-specified initial value defined for instance blinky_0.counter[28:0] is being ignored due to limitations in architecture. 
 
-Starting HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
-
-
-Finished HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Starting HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 
-Started DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished HSTDM IP insertion (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 
-Finished DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Started DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
+
+
+Finished DisTri Cleanup (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 @N: FX1184 |Applying syn_allowed_resources blockrams=84 on top level netlist blinky_sd 
 
-Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished netlist restructuring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 
 
@@ -489,32 +490,32 @@ Clock Load Summary
 Clock                                       Load      Pin                                                     Seq Example                                      Seq Example       Comb Example                                 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 osc_rc160mhz                                1         PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160.CLK(OSC_RC160MHZ)     PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.REF_CLK_0     -                 PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160_INT.I(BUFG)
-PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0(PLL)            blinky_0.ledsState[14:3].C                       -                 PF_CCC_C0_0.PF_CCC_C0_0.clkint_0.I(BUFG)     
+PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0(PLL)            blinky_0.counter[28:0].C                         -                 PF_CCC_C0_0.PF_CCC_C0_0.clkint_0.I(BUFG)     
 ==============================================================================================================================================================================================================================
 
 @N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.
 Finished Pre Mapping Phase.
 @N: BN225 |Writing default property annotation file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/blinky_sd.sap.
 
-Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Starting constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 
-Finished constraint checker preprocessing (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished constraint checker preprocessing (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 
-Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished constraint checker (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 567MB peak: 567MB)
 
 Pre-mapping successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 474MB peak: 562MB)
+At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 478MB peak: 567MB)
 
 Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Mon Jun  3 21:53:30 2024
+# Sat Jun 22 08:00:10 2024
 
 ###########################################################]
 Map & Optimize Report
 
-# Mon Jun  3 21:53:31 2024
+# Sat Jun 22 08:00:10 2024
 
 
 Copyright (C) 1994-2023 Synopsys, Inc.
@@ -557,79 +558,79 @@ Finished loading timing files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h
 Vector Gate Optimization Enabled: Optimizing  Partial Hanging Logic. 
 
 
-Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Starting Optimization and Mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 564MB peak: 564MB)
 
 
 Available hyper_sources - for debug and ip models
 	None Found
 
 
-Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished RTL optimizations (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 565MB peak: 565MB)
 
-@N: MO231 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:9|Found counter in view:work.blinky_sd(verilog) instance blinky_0.counter[28:0] 
+@N: MO231 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":7:4:7:12|Found counter in view:work.blinky_sd(verilog) instance blinky_0.counter[28:0] 
 
-Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Starting factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
 
 
-Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished factoring (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
 
 NConnInternalConnection caching is on
 
-Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished generic timing optimizations - Pass 1 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
 
 
-Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Starting Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 566MB peak: 566MB)
 
 
-Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished Early Timing Optimization (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished generic timing optimizations - Pass 2 (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Finished preparing to map (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 561MB peak: 561MB)
+Finished preparing to map (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Finished technology mapping (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished technology mapping (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 Pass		 CPU time		Worst Slack		Luts / Registers
 ------------------------------------------------------------
-   1		0h:00m:00s		    91.91ns		  30 /        41
+   1		0h:00m:01s		    91.91ns		  30 /        41
 
 Added 0 Buffers
 Added 0 Cells via replication
 	Added 0 Sequential Cells via replication
 	Added 0 Combinational Cells via replication
 
-Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished technology timing optimizations and critical path resynthesis (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Finished restoring hierarchy (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished restoring hierarchy (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Starting CDBProcessSetClockGroups... (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Starting CDBProcessSetClockGroups... (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Finished with CDBProcessSetClockGroups (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished with CDBProcessSetClockGroups (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 
-Start Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Start Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 Writing Analyst data base /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/synthesis/synwork/blinky_sd_m.srm
 
-Finished Writing Netlist Databases (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished Writing Netlist Databases (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:01s; Memory used current: 566MB peak: 566MB)
 
 Writing Verilog Simulation files
 @N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
 @N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
 
-Finished Writing Verilog Simulation files (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished Writing Verilog Simulation files (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
 
 
-Finished Writing Netlists (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished Writing Netlists (Real Time elapsed 0h:00m:01s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
 
 
-Start final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Start final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
 
 @W: MT246 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":13:17:13:25|Blackbox OSC_RC160MHZ is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
 @N: MT615 |Found clock osc_rc160mhz with period 5.87ns 
@@ -637,7 +638,7 @@ Start final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:0
 
 
 ##### START OF TIMING REPORT #####[
-# Timing report written on Mon Jun  3 21:53:31 2024
+# Timing report written on Sat Jun 22 08:00:12 2024
 #
 
 
@@ -764,9 +765,9 @@ Name                         Type     Name     Dir     Delay     Time        Fan
 ---------------------------------------------------------------------------------------
 blinky_0.counter[0]          SLE      Q        Out     0.257     0.257 r     -         
 counter[0]                   Net      -        -       0.146     -           2         
-blinky_0.counter_s_1         ARI1     B        In      -         0.404 r     -         
-blinky_0.counter_s_1         ARI1     FCO      Out     0.387     0.791 r     -         
-counter_s_1_FCO              Net      -        -       0.000     -           1         
+blinky_0.counter_s_13        ARI1     B        In      -         0.404 r     -         
+blinky_0.counter_s_13        ARI1     FCO      Out     0.387     0.791 r     -         
+counter_s_13_FCO             Net      -        -       0.000     -           1         
 blinky_0.counter_cry[1]      ARI1     FCI      In      -         0.791 r     -         
 blinky_0.counter_cry[1]      ARI1     FCO      Out     0.009     0.800 r     -         
 counter_cry[1]               Net      -        -       0.000     -           1         
@@ -862,10 +863,10 @@ Path delay compensated for clock skew. Clock skew is added to clock-to-out value
 
 Timing exceptions that could not be applied
 
-Finished final timing analysis (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished final timing analysis (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
 
 
-Finished timing report (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 562MB peak: 562MB)
+Finished timing report (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 566MB peak: 566MB)
 
 ---------------------------------------
 Resource Usage Report for blinky_sd 
@@ -873,6 +874,7 @@ Resource Usage Report for blinky_sd
 Mapping to part: mpfs025tfcvg484std
 Cell usage:
 CLKINT          2 uses
+MSS             1 use
 OSC_RC160MHZ    1 use
 PLL             1 use
 CFG1           1 use
@@ -887,7 +889,8 @@ SLE            41 uses
 DSP Blocks:    0 of 68 (0%)
 
 I/O ports: 14
-I/O primitives: 12
+I/O primitives: 13
+INBUF_DIFF     1 use
 OUTBUF         12 uses
 
 
@@ -907,9 +910,9 @@ Total number of LUTs after P&R:  30 + 0 + 0 + 0 = 30;
 
 Mapper successful!
 
-At Mapper Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 474MB peak: 562MB)
+At Mapper Exit (Real Time elapsed 0h:00m:02s; CPU Time elapsed 0h:00m:02s; Memory used current: 478MB peak: 566MB)
 
-Process took 0h:00m:01s realtime, 0h:00m:01s cputime
-# Mon Jun  3 21:53:31 2024
+Process took 0h:00m:02s realtime, 0h:00m:02s cputime
+# Sat Jun 22 08:00:12 2024
 
 ###########################################################]

@@ -3,6 +3,7 @@ Resource Usage Report for blinky_sd
 Mapping to part: mpfs025tfcvg484std
 Cell usage:
 CLKINT          2 uses
+MSS             1 use
 OSC_RC160MHZ    1 use
 PLL             1 use
 CFG1           1 use
@@ -17,7 +18,8 @@ SLE            41 uses
 DSP Blocks:    0 of 68 (0%)
 
 I/O ports: 14
-I/O primitives: 12
+I/O primitives: 13
+INBUF_DIFF     1 use
 OUTBUF         12 uses
 
 

@@ -1,0 +1,1 @@
+-link -encrypt -top blinky_sd -osyn /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synwork/blinky_sd_comp.srs /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/synthesis/synwork/layer0.srs  -jobname linker  

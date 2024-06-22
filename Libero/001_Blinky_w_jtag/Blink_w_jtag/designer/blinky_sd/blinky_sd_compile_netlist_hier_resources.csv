@@ -1,0 +1,7 @@
+Detailed Resource Usage
+Module Name,Fabric 4LUT,Fabric DFF,Single-Ended I/O,Differential I/O Pairs,Chip Globals,PLL
+MSS_barebones_0/Primitives,0,0,0,1,0,0
+PF_CCC_C0_0/PF_CCC_C0_0/Primitives,0,0,0,0,1,1
+PF_OSC_C0_0/PF_OSC_C0_0/Primitives,0,0,0,0,1,0
+Primitives/Primitives,0,0,18,0,0,0
+blinky_0/Primitives,30,41,0,0,0,0

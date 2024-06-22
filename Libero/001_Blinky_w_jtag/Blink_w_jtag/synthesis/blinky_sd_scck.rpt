@@ -1,0 +1,56 @@
+
+Copyright (C) 1994-2023 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: V-2023.09M
+Install: /usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro
+OS: Ubuntu 22.04.4 LTS
+Hostname: SER7-22
+max virtual memory: unlimited (bytes)
+max user processes: 110736
+max stack size: 8388608 (bytes)
+
+
+Implementation : synthesis
+
+# Written on Fri Jun 21 20:07:11 2024
+
+##### FILES SYNTAX CHECKED ##############################################
+Constraint File(s):      "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/designer/blinky_sd/synthesis.fdc"
+
+#Run constraint checker to find more issues with constraints.
+#########################################################################
+
+
+
+No issues found in constraint syntax.
+
+
+
+Clock Summary
+*************
+
+          Start                                         Requested     Requested     Clock                             Clock                     Clock
+Level     Clock                                         Frequency     Period        Type                              Group                     Load 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+0 -       osc_rc160mhz                                  170.4 MHz     5.869         declared                          default_clkgroup          1    
+1 .         PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     10.7 MHz      93.897        generated (from osc_rc160mhz)     default_clkgroup          41   
+                                                                                                                                                     
+0 -       blinky_sd|TCK                                 100.0 MHz     10.000        inferred                          Inferred_clkgroup_0_1     1    
+=====================================================================================================================================================
+
+
+Clock Load Summary
+******************
+
+                                            Clock     Source                                                  Clock Pin                                        Non-clock Pin     Non-clock Pin                                
+Clock                                       Load      Pin                                                     Seq Example                                      Seq Example       Comb Example                                 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+osc_rc160mhz                                1         PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160.CLK(OSC_RC160MHZ)     PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.REF_CLK_0     -                 PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160_INT.I(BUFG)
+PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0     41        PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0(PLL)            blinky_0.ledsState[14:3].C                       -                 PF_CCC_C0_0.PF_CCC_C0_0.clkint_0.I(BUFG)     
+                                                                                                                                                                                                                              
+blinky_sd|TCK                               1         TCK(port)                                               MSS_barebones_0.I_MSS.JTAG_TCK_F2M               -                 -                                            
+==============================================================================================================================================================================================================================

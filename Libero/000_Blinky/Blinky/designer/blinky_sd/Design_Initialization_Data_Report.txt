@@ -3,7 +3,7 @@ Microchip Technology Inc. - Microchip Libero Software Release v2024.1 (Version 2
 Family: PolarFireSoC
 Die: MPFS025T
 Package: FCVG484
-Date: Mon Jun  3 21:55:51 2024
+Date: Sat Jun 22 08:01:58 2024
 
 Report path: /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/designer/blinky_sd/Design_Initialization_Data_Report.txt
 
@@ -11,7 +11,7 @@ PolarFireSoC Macros
 +------------+------+
 | Macro Name | Used |
 +------------+------+
-| MSS        | No   |
+| MSS        | Yes  |
 | PFSOC_SCSM | No   |
 +------------+------+
 
@@ -31,7 +31,7 @@ Crypto Selection
 +----------+---------+
 | Function | Enabled |
 +----------+---------+
-| Crypto   | No      |
+| Crypto   | Yes     |
 +----------+---------+
 
 
@@ -1189,6 +1189,32 @@ PLL_SW_0   (PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0)
 | SSCG_REG_2    | 0x840002C | 0x00000000            | 0x0000007D       | Yes      | N/A           |
 | SSCG_REG_3    | 0x8400030 | 0x00000000            | 0x00000001       | Yes      | N/A           |
 +---------------+-----------+-----------------------+------------------+----------+---------------+
+
+Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.
+
+MSS   (MSS_barebones_0/I_MSS)
++-------------------------+-----------+-----------------------+------------------+----------+---------------+
+| Register Name           | Address   | Silicon Default Value | Configured Value | Modified | Lock Value(*) |
++-------------------------+-----------+-----------------------+------------------+----------+---------------+
+| CRYPTO_DLL_CTRL0        | 0x7010004 | 0x8800000F            | 0x8810000F       | Yes      | 1             |
+| CRYPTO_DLL_CTRL1        | 0x7010008 | 0x00000000            | 0x00000000       | No       | 1             |
+| CRYPTO_DLL_STAT0        | 0x701000C | 0x00001801            | 0x00001800       | Yes      | 1             |
+| CRYPTO_CONTROL_USER     | 0x7010040 | 0x00000006            | 0x000000EC       | Yes      | 1             |
+| CRYPTO_INTERRUPT_ENABLE | 0x701004C | 0x00000000            | 0x00000000       | No       | 1             |
+| CRYPTO_MARGIN           | 0x7010060 | 0x00000000            | 0x00000000       | No       | 1             |
+| SCB_REGS_DLL0_CTRL0     | 0x7040200 | 0x8800000F            | 0x8810000F       | Yes      | 1             |
+| SCB_REGS_DLL0_CTRL1     | 0x7040204 | 0x00000000            | 0x00000000       | No       | 1             |
+| SCB_REGS_DLL0_STAT0     | 0x7040208 | 0x00001003            | 0x00001000       | Yes      | 1             |
+| SCB_REGS_DLL1_CTRL0     | 0x7040220 | 0x8800000F            | 0x8810000F       | Yes      | 1             |
+| SCB_REGS_DLL1_CTRL1     | 0x7040224 | 0x00000000            | 0x00000000       | No       | 1             |
+| SCB_REGS_DLL1_STAT0     | 0x7040228 | 0x00001003            | 0x00001000       | Yes      | 1             |
+| SCB_REGS_DLL2_CTRL0     | 0x7040240 | 0x8800000F            | 0x8810000F       | Yes      | 1             |
+| SCB_REGS_DLL2_CTRL1     | 0x7040244 | 0x00000000            | 0x00000000       | No       | 1             |
+| SCB_REGS_DLL2_STAT0     | 0x7040248 | 0x00001003            | 0x00001000       | Yes      | 1             |
+| SCB_REGS_DLL3_CTRL0     | 0x7040260 | 0x8800000F            | 0x8810000F       | Yes      | 1             |
+| SCB_REGS_DLL3_CTRL1     | 0x7040264 | 0x00000000            | 0x00000000       | No       | 1             |
+| SCB_REGS_DLL3_STAT0     | 0x7040268 | 0x00001003            | 0x00001000       | Yes      | 1             |
++-------------------------+-----------+-----------------------+------------------+----------+---------------+
 
 Note: (*) Lock Value = 0, disables modification of the Register. Lock Value = N/A, locking does not apply to the Register.
 

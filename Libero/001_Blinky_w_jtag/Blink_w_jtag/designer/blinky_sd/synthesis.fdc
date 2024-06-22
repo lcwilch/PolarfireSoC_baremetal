@@ -1,0 +1,8 @@
+# Microchip Technology Inc.
+# Date: 2024-Jun-21 20:07:07
+# This file was generated based on the following SDC source files:
+#   /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/constraint/blinky_sd_derived_constraints.sdc
+#
+
+create_clock -name {osc_rc160mhz} -period 5.86854 [ get_pins { PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160.CLK } ]
+create_generated_clock -name {PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0/OUT0} -divide_by 16 -source [ get_pins { PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.REF_CLK_0 } ] [ get_pins { PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0.OUT0 } ]

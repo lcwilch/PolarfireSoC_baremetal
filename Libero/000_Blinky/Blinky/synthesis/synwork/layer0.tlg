@@ -58,12 +58,9 @@ Running optimization stage 1 on PFSOC_INIT_MONITOR_C0 .......
 Finished optimization stage 1 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 @N: CG364 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":9:7:9:15|Synthesizing module blinky_sd in library work.
 Running optimization stage 1 on blinky_sd .......
-@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":79:22:79:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
-@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":53:14:53:28|Removing instance MSS_barebones_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@W: CL168 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":88:22:88:44|Removing instance PFSOC_INIT_MONITOR_C0_0 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
 Finished optimization stage 1 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on blinky_sd .......
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":20:14:20:19|Input REFCLK is unused.
-@N: CL159 :"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":21:14:21:21|Input REFCLK_N is unused.
 Finished optimization stage 2 on blinky_sd (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)
 Running optimization stage 2 on PFSOC_INIT_MONITOR_C0 .......
 Finished optimization stage 2 on PFSOC_INIT_MONITOR_C0 (CPU Time 0h:00m:00s, Memory Used current: 195MB peak: 195MB)

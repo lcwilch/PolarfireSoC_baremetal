@@ -1,0 +1,83 @@
+INFO: Reading User SDC file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/constraint/blinky_sd_derived_constraints.sdc.
+INFO: The option "Abort flow if errors are found in SDC" is turned ON in Project Settings> Design flow page. The Place & Route tool will fail if errors are found in associated SDC files. Please uncheck the option to ignore the errors and continue running the tool.
+
+No errors or warnings found.
+INFO: The option "Abort flow if errors are found in PDC" is turned ON in Project Settings> Design flow page. The Place & Route tool will fail if errors are found in associated PDC files. Please uncheck the option to ignore the errors and continue running the tool
+***** Place and Route Configurations *****
+Timing-driven            : ON
+Power-driven             : OFF
+I/O Register Combining   : OFF
+Global Pins Demotion     : ON
+Driver Replication       : OFF
+High-effort              : OFF
+Repair min-delay         : OFF
+Incremental              : OFF
+Inter-clock optimization : ON
+
+INFO: Reading User PDC file /home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/constraint/io/user.pdc. 0 error(s) and 0 warning(s)
+
+ Running Timing based Global Demotion.
+        Demoted 0 global pins.
+
+ Timing based Global Demotion completed successfully.
+
+Running the I/O Bank and Globals Assigner.
+Info:  I/O Bank and Globals Assigner identified 18 fixed I/O macros, 1 unfixed I/O macros
+
+I/O Bank and Globals Assigner completed successfully.
+Total time spent in I/O Bank and Globals Assigner: 1 seconds
+
+Placer V5.0 - 2024.1.0
+Design: blinky_sd                       Started: Fri Jun 21 21:12:31 2024
+
+Initializing Normal-Effort Timing-Driven Placement ...
+Clustering ...
+Placing ...
+Improving placement ...
+End of placement.
+
+Placer Runtime Summary   :
+Clustering (1 pass)      : 0 seconds
+Placement                : 0 seconds
+Improvement              : 0 seconds
+
+Placer completed successfully.
+
+Design: blinky_sd
+Finished: Fri Jun 21 21:12:47 2024
+Total CPU Time:     00:00:15            Total Elapsed Time: 00:00:16
+Total Memory Usage: 1034.7 Mbytes
+                        o - o - o - o - o - o
+
+
+Router
+Design: blinky_sd                       Started: Fri Jun 21 21:12:50 2024
+
+
+Router completed successfully.
+
+Design: blinky_sd
+Finished: Fri Jun 21 21:12:52 2024
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:02
+Total Memory Usage: 786.3 Mbytes
+                        o - o - o - o - o - o
+
+Resource Usage
++---------------+------+-------+------------+
+| Type          | Used | Total | Percentage |
++---------------+------+-------+------------+
+| 4LUT          | 30   | 22956 | 0.13       |
+| DFF           | 41   | 22956 | 0.18       |
+| I/O Register  | 0    | 106   | 0.00       |
+| Logic Element | 42   | 22956 | 0.18       |
++---------------+------+-------+------------+
+
+I/O Placement
++--------+-------+------------+
+| Type   | Count | Percentage |
++--------+-------+------------+
+| Locked |  17   | 94.44%     |
+| Placed |  1    | 5.56%      |
++--------+-------+------------+
+
+Completed writing pin report files.

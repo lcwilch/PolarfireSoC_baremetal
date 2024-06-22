@@ -8,7 +8,7 @@
 
 # Family: PolarFireSoC , Die: MPFS025T , Package: FCVG484 , Speed grade: STD 
 
-# Date generated: Mon Jun  3 21:55:36 2024 
+# Date generated: Sat Jun 22 08:01:13 2024 
 
 
 #
@@ -32,60 +32,62 @@ set_io -port_name LEDS\[14\] -DIRECTION OUTPUT -pin_name B9 -fixed false
 # Core cell constraints
 #
 
-set_location -inst_name blinky_0/ledsState\[12\] -fixed false -x 969 -y 136
-set_location -inst_name blinky_0/counter\[27\] -fixed false -x 966 -y 136
+set_location -inst_name blinky_0/ledsState\[12\] -fixed false -x 867 -y 136
+set_location -inst_name blinky_0/counter\[27\] -fixed false -x 900 -y 136
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1 -fixed false -x 726 -y 150
-set_location -inst_name blinky_0/counter\[11\] -fixed false -x 950 -y 136
-set_location -inst_name blinky_0/counter\[22\] -fixed false -x 961 -y 136
-set_location -inst_name blinky_0/counter\[24\] -fixed false -x 963 -y 136
-set_location -inst_name blinky_0/counter_RNO\[0\] -fixed false -x 936 -y 135
-set_location -inst_name blinky_0/counter\[20\] -fixed false -x 959 -y 136
-set_location -inst_name blinky_0/ledsState\[6\] -fixed false -x 955 -y 139
-set_location -inst_name blinky_0/counter\[4\] -fixed false -x 943 -y 136
+set_location -inst_name blinky_0/counter\[11\] -fixed false -x 884 -y 136
+set_location -inst_name blinky_0/counter\[22\] -fixed false -x 895 -y 136
+set_location -inst_name blinky_0/counter\[24\] -fixed false -x 897 -y 136
+set_location -inst_name blinky_0/counter_RNO\[0\] -fixed false -x 864 -y 135
+set_location -inst_name blinky_0/counter\[20\] -fixed false -x 893 -y 136
+set_location -inst_name blinky_0/ledsState\[6\] -fixed false -x 887 -y 139
+set_location -inst_name blinky_0/counter\[4\] -fixed false -x 877 -y 136
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/clkint_0_1 -fixed false -x 12 -y 2
-set_location -inst_name blinky_0/ledsState\[4\] -fixed false -x 954 -y 139
-set_location -inst_name blinky_0/counter\[25\] -fixed false -x 964 -y 136
-set_location -inst_name blinky_0/counter\[7\] -fixed false -x 946 -y 136
-set_location -inst_name blinky_0/counter\[19\] -fixed false -x 958 -y 136
-set_location -inst_name blinky_0/ledsState\[7\] -fixed false -x 952 -y 139
-set_location -inst_name blinky_0/counter\[21\] -fixed false -x 960 -y 136
-set_location -inst_name blinky_0/counter\[3\] -fixed false -x 942 -y 136
-set_location -inst_name blinky_0/ledsState\[5\] -fixed false -x 957 -y 139
-set_location -inst_name blinky_0/counter\[1\] -fixed false -x 940 -y 136
-set_location -inst_name blinky_0/counter\[5\] -fixed false -x 944 -y 136
+set_location -inst_name blinky_0/ledsState\[4\] -fixed false -x 882 -y 139
+set_location -inst_name blinky_0/counter\[25\] -fixed false -x 898 -y 136
+set_location -inst_name blinky_0/counter\[7\] -fixed false -x 880 -y 136
+set_location -inst_name blinky_0/counter\[19\] -fixed false -x 892 -y 136
+set_location -inst_name blinky_0/ledsState\[7\] -fixed false -x 878 -y 139
+set_location -inst_name blinky_0/counter\[21\] -fixed false -x 894 -y 136
+set_location -inst_name blinky_0/counter\[3\] -fixed false -x 876 -y 136
+set_location -inst_name blinky_0/ledsState\[5\] -fixed false -x 886 -y 139
+set_location -inst_name blinky_0/counter\[1\] -fixed false -x 874 -y 136
+set_location -inst_name blinky_0/counter\[5\] -fixed false -x 878 -y 136
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_DELAY -fixed false -x 7 -y 7
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0_1 -fixed false -x 4 -y 7
-set_location -inst_name blinky_0/counter\[8\] -fixed false -x 947 -y 136
-set_location -inst_name blinky_0/ledsState\[13\] -fixed false -x 968 -y 136
-set_location -inst_name blinky_0/counter\[18\] -fixed false -x 957 -y 136
-set_location -inst_name blinky_0/ledsState\[9\] -fixed false -x 970 -y 136
+set_location -inst_name blinky_0/counter\[8\] -fixed false -x 881 -y 136
+set_location -inst_name blinky_0/ledsState\[13\] -fixed false -x 884 -y 139
+set_location -inst_name blinky_0/counter\[18\] -fixed false -x 891 -y 136
+set_location -inst_name blinky_0/ledsState\[9\] -fixed false -x 869 -y 136
 set_location -inst_name PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT -fixed false -x 721 -y 0
-set_location -inst_name blinky_0/counter\[13\] -fixed false -x 952 -y 136
-set_location -inst_name blinky_0/counter\[6\] -fixed false -x 945 -y 136
-set_location -inst_name blinky_0/ledsState\[11\] -fixed false -x 971 -y 136
-set_location -inst_name blinky_0/counter\[2\] -fixed false -x 941 -y 136
+set_location -inst_name blinky_0/counter\[13\] -fixed false -x 886 -y 136
+set_location -inst_name blinky_0/counter\[6\] -fixed false -x 879 -y 136
+set_location -inst_name blinky_0/ledsState\[11\] -fixed false -x 868 -y 136
+set_location -inst_name blinky_0/counter\[2\] -fixed false -x 875 -y 136
 set_location -inst_name PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160 -fixed false -x 656 -y 5
-set_location -inst_name blinky_0/counter\[0\] -fixed false -x 936 -y 136
+set_location -inst_name blinky_0/counter\[0\] -fixed false -x 864 -y 136
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/clkint_0 -fixed false -x 720 -y 0
 set_location -inst_name PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT_1 -fixed false -x 721 -y 8
-set_location -inst_name blinky_0/ledsState\[10\] -fixed false -x 951 -y 139
-set_location -inst_name blinky_0/counter\[28\] -fixed false -x 967 -y 136
-set_location -inst_name blinky_0/counter\[16\] -fixed false -x 955 -y 136
-set_location -inst_name blinky_0/ledsState\[14\] -fixed false -x 950 -y 139
-set_location -inst_name blinky_0/counter\[17\] -fixed false -x 956 -y 136
+set_location -inst_name blinky_0/ledsState\[10\] -fixed false -x 883 -y 139
+set_location -inst_name blinky_0/counter\[28\] -fixed false -x 901 -y 136
+set_location -inst_name blinky_0/counter\[16\] -fixed false -x 889 -y 136
+set_location -inst_name blinky_0/ledsState\[14\] -fixed false -x 870 -y 136
+set_location -inst_name blinky_0/counter\[17\] -fixed false -x 890 -y 136
 set_location -inst_name PF_OSC_C0_0/PF_OSC_C0_0/I_OSC_160_INT/U0_RGB1 -fixed false -x 723 -y 15
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/pll_inst_0 -fixed false -x 0 -y 8
-set_location -inst_name blinky_0/counter\[23\] -fixed false -x 962 -y 136
-set_location -inst_name blinky_0/counter\[12\] -fixed false -x 951 -y 136
-set_location -inst_name blinky_0/ledsState\[3\] -fixed false -x 949 -y 139
-set_location -inst_name blinky_0/counter\[14\] -fixed false -x 953 -y 136
-set_location -inst_name blinky_0/ledsState\[8\] -fixed false -x 948 -y 139
-set_location -inst_name blinky_0/counter\[10\] -fixed false -x 949 -y 136
-set_location -inst_name blinky_0/counter\[15\] -fixed false -x 954 -y 136
-set_location -inst_name blinky_0/counter\[9\] -fixed false -x 948 -y 136
-set_location -inst_name blinky_0/counter\[26\] -fixed false -x 965 -y 136
-set_location -inst_name blinky_0/counter_s_1 -fixed false -x 939 -y 135
+set_location -inst_name blinky_0/counter\[23\] -fixed false -x 896 -y 136
+set_location -inst_name blinky_0/counter\[12\] -fixed false -x 885 -y 136
+set_location -inst_name blinky_0/ledsState\[3\] -fixed false -x 881 -y 139
+set_location -inst_name blinky_0/counter\[14\] -fixed false -x 887 -y 136
+set_location -inst_name blinky_0/ledsState\[8\] -fixed false -x 876 -y 139
+set_location -inst_name blinky_0/counter\[10\] -fixed false -x 883 -y 136
+set_location -inst_name MSS_barebones_0/I_MSS -fixed false -x 737 -y 215
+set_location -inst_name blinky_0/counter\[15\] -fixed false -x 888 -y 136
+set_location -inst_name blinky_0/counter\[9\] -fixed false -x 882 -y 136
+set_location -inst_name blinky_0/counter\[26\] -fixed false -x 899 -y 136
+set_location -inst_name blinky_0/counter_s_13 -fixed false -x 873 -y 135
 set_location -inst_name PF_CCC_C0_0/PF_CCC_C0_0/clkint_0/U0_RGB1_RGB0 -fixed false -x 726 -y 123
-set_location -inst_name blinky_0/counter_s_1_CC_0 -fixed false -x 939 -y 137
-set_location -inst_name blinky_0/counter_s_1_CC_1 -fixed false -x 948 -y 137
-set_location -inst_name blinky_0/counter_s_1_CC_2 -fixed false -x 960 -y 137
+set_location -inst_name blinky_0/counter_s_13_CC_0 -fixed false -x 873 -y 137
+set_location -inst_name blinky_0/counter_s_13_CC_1 -fixed false -x 876 -y 137
+set_location -inst_name blinky_0/counter_s_13_CC_2 -fixed false -x 888 -y 137
+set_location -inst_name blinky_0/counter_s_13_CC_3 -fixed false -x 900 -y 137

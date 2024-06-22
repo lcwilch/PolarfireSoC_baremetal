@@ -5,7 +5,7 @@
 #CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/umr_capim.v":1704305383
 #CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/scemi_objects.v":1704385228
 #CUR:"/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/lib/vlog/scemi_pipes.svh":1704385228
-#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1717466007
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v":1719057606
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v":1717463978
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/MSS_barebones/MSS_barebones.v":1717463978
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v":1717465349
@@ -14,8 +14,8 @@
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_CCC_C0/PF_CCC_C0.v":1717465308
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":1717465012
 #CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/PF_OSC_C0/PF_OSC_C0.v":1717465012
-#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":1717465907
-#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":1717465991
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/hdl/blinky.v":1719057363
+#CUR:"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/work/blinky_sd/blinky_sd.v":1719057581
 #numinternalfiles:5
 #defaultlanguage:verilog
 0			"/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/000_Blinky/Blinky/component/polarfire_syn_comps.v" verilog
@@ -40,7 +40,7 @@
 7 0
 8 7
 9 -1
-10 9 6 8 2 4
+10 9 2 6 8 4
 #Dependency Lists(Users Of)
 0 3 5 7
 1 2

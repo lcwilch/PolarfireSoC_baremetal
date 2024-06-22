@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////
-// Created by SmartDesign Mon Jun  3 21:53:11 2024
+// Created by SmartDesign Sat Jun 22 07:59:41 2024
 // Version: 2024.1 2024.1.0.3
 //////////////////////////////////////////////////////////////////////
 
@@ -27,12 +27,20 @@ output [14:3] LEDS;
 // Nets
 //--------------------------------------------------------------------
 wire   [14:3] LEDS_net_0;
+wire          MSS_barebones_0_PLL_CPU_LOCK_M2F;
 wire          PF_CCC_C0_0_OUT0_FABCLK_0;
 wire          PF_OSC_C0_0_RCOSC_160MHZ_GL;
-wire          PFSOC_INIT_MONITOR_C0_0_DEVICE_INIT_DONE;
 wire          REFCLK;
 wire          REFCLK_N;
 wire   [14:3] LEDS_net_1;
+//--------------------------------------------------------------------
+// TiedOff Nets
+//--------------------------------------------------------------------
+wire          VCC_net;
+//--------------------------------------------------------------------
+// Constant assignments
+//--------------------------------------------------------------------
+assign VCC_net = 1'b1;
 //--------------------------------------------------------------------
 // Top level output port assignments
 //--------------------------------------------------------------------
@@ -44,19 +52,20 @@ assign LEDS[14:3] = LEDS_net_1;
 //--------blinky
 blinky blinky_0(
         // Inputs
-        .clkin ( PF_CCC_C0_0_OUT0_FABCLK_0 ),
+        .clkin  ( PF_CCC_C0_0_OUT0_FABCLK_0 ),
+        .enable ( MSS_barebones_0_PLL_CPU_LOCK_M2F ),
         // Outputs
-        .leds  ( LEDS_net_0 ) 
+        .leds   ( LEDS_net_0 ) 
         );
 
 //--------MSS_barebones
 MSS_barebones MSS_barebones_0(
         // Inputs
-        .MSS_RESET_N_F2M  ( PFSOC_INIT_MONITOR_C0_0_DEVICE_INIT_DONE ),
+        .MSS_RESET_N_F2M  ( VCC_net ),
         .REFCLK           ( REFCLK ),
         .REFCLK_N         ( REFCLK_N ),
         // Outputs
-        .PLL_CPU_LOCK_M2F (  ),
+        .PLL_CPU_LOCK_M2F ( MSS_barebones_0_PLL_CPU_LOCK_M2F ),
         .MSS_RESET_N_M2F  (  ) 
         );
 
@@ -82,7 +91,7 @@ PFSOC_INIT_MONITOR_C0 PFSOC_INIT_MONITOR_C0_0(
         .PCIE_INIT_DONE             (  ),
         .USRAM_INIT_DONE            (  ),
         .SRAM_INIT_DONE             (  ),
-        .DEVICE_INIT_DONE           ( PFSOC_INIT_MONITOR_C0_0_DEVICE_INIT_DONE ),
+        .DEVICE_INIT_DONE           (  ),
         .XCVR_INIT_DONE             (  ),
         .USRAM_INIT_FROM_SNVM_DONE  (  ),
         .USRAM_INIT_FROM_UPROM_DONE (  ),

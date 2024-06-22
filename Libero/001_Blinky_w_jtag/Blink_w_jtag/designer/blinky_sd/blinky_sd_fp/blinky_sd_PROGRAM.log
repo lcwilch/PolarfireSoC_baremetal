@@ -1,0 +1,43 @@
+Software Version: 2024.1.0.3
+Programmer 'S20085DQOY' : JTAG TCK / SPI SCK frequency = 1 MHz
+programmer 'S20085DQOY' : FlashPro5
+Opened '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/designer/blinky_sd/blinky_sd_fp/blinky_sd.pro'
+The 'open_project' command succeeded.
+Info: Programming is already enabled for device 'MPFS025T'.
+The 'enable_device' command succeeded.
+PPD file '/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag/designer/blinky_sd/blinky_sd.ppd' has been loaded successfully.
+DESIGN : blinky_sd;  CHECKSUM : 2824;  PDB_VERSION : 1.0
+The 'set_programming_file' command succeeded.
+The 'set_programming_action' command succeeded.
+programmer 'S20085DQOY' : Scan Chain...
+Programmer 'S20085DQOY' : JTAG TCK / SPI SCK frequency = 1 MHz
+programmer 'S20085DQOY' : Check Chain...
+programmer 'S20085DQOY' : Scan and Check Chain PASSED.
+programmer 'S20085DQOY' : device 'MPFS025T' : Executing action PROGRAM
+Programmer 'S20085DQOY' : JTAG TCK / SPI SCK frequency = 4 MHz
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT Algo_version[16] = 0002
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT IDCODE[32] = 0f8531cf
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT ISC_ENABLE_RESULT[32] = 00000000
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT CRCERR[1] = 0
+programmer 'S20085DQOY' : device 'MPFS025T' : Programming Mode: JTAG
+programmer 'S20085DQOY' : device 'MPFS025T' : Programming FPGA Array and sNVM...
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT BITS component bitstream digest[256] = 743c84a51bb8f09c698540b2227ead42bbe263b008451c7bc9a18da54c0d78e5
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT Fabric component bitstream digest[256] = 5cd2313c10d1ca036f243d24a07ce4112250ac297a8d3e79d752210eddc954ea
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT sNVM component bitstream digest[256] = b0a9e2be29f47fa951a6a131a8dd9a9016e5ba87de5833c742b7f654428ea6e7
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT EOB component bitstream digest[256] = 825198485219b93b5c66ca11582f3c3f45d6b171856c150c8cdc8f849356298f
+programmer 'S20085DQOY' : device 'MPFS025T' : ===================================================================================
+programmer 'S20085DQOY' : device 'MPFS025T' : EXPORT DSN[128] = db54da78ae3def6740b7c22785ceaa98
+programmer 'S20085DQOY' : device 'MPFS025T' : ===================================================================================
+programmer 'S20085DQOY' : device 'MPFS025T' : Finished: Fri Jun 21 21:15:55 2024 (Elapsed time 00:01:02)
+programmer 'S20085DQOY' : device 'MPFS025T' : Executing action PROGRAM PASSED.
+programmer 'S20085DQOY' : Chain programming PASSED.
+Chain Programming Finished: Fri Jun 21 21:15:55 2024 (Elapsed time 00:01:02)
+
+                        o - o - o - o - o - o
+
+The 'run_selected_actions' command succeeded.
+Project saved.
+The 'save_project' command succeeded.
+Project closed.
+The 'close_project' command succeeded.
+The Execute Script command succeeded.

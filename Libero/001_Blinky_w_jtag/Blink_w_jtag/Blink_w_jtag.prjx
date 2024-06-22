@@ -1,0 +1,466 @@
+KEY LIBERO "2024.1"
+KEY CAPTURE "2024.1.0.3"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "SYSTEMVERILOG"
+KEY VHDLMODE "VHDL2008"
+KEY SYSTEMVERILOGMFCU "FALSE"
+KEY UseConstraintFlowTechnology "TRUE"
+KEY VendorTechnology_Family "PolarFireSoC"
+KEY VendorTechnology_Die "PA5SOC025T"
+KEY VendorTechnology_Package "fcvg484"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.0"
+KEY VendorTechnology_PART_RANGE "EXT"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVCMOS18"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE "0"
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "PA5SOC025T"
+KEY VendorTechnology_TEMPR "EXT"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.2_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.8_VOLTR "EXT"
+KEY VendorTechnology_VCCI_2.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_3.3_VOLTR "EXT"
+KEY VendorTechnology_VOLTR "EXT"
+KEY ProjectLocation "/home/lcwilch/Projects/PolarfireSoC_baremetal/Libero/001_Blinky_w_jtag/Blink_w_jtag"
+KEY ProjectDescription ""
+KEY UseRootLocationForLinkedFiles "FALSE"
+KEY RootLocationENVForLinkedFiles ""
+KEY RootLocationForLinkedFiles ""
+KEY GlobalIncludePaths ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY MemoryMapDrcSeverity "FALSE"
+KEY LossOfDataDRCSeverity "TRUE"
+KEY IdWidthMismatchDRCSeverity "TRUE"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "blinky_sd::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST GlobalIncludeFileList
+ENDLIST
+LIST FileManager
+VALUE "<project>/component/Actel/SgCore/PF_CCC/2.2.220/PF_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465308"
+SIZE="279"
+PARENT="<project>/component/work/PF_CCC_C0/PF_CCC_C0.cxf"
+ENDFILE
+VALUE "<project>/component/Actel/SgCore/PF_OSC/1.0.102/PF_OSC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465012"
+SIZE="243"
+PARENT="<project>/component/work/PF_OSC_C0/PF_OSC_C0.cxf"
+ENDFILE
+VALUE "<project>/component/Microsemi/SgCore/PFSOC_INIT_MONITOR/1.0.307/PFSOC_INIT_MONITOR.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465349"
+SIZE="295"
+PARENT="<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.cxf"
+ENDFILE
+VALUE "<project>/component/work/blinky_sd/blinky_sd.cxf,actgen_cxf"
+STATE="utd"
+TIME="1719014812"
+SIZE="3618"
+ENDFILE
+VALUE "<project>/component/work/blinky_sd/blinky_sd.v,hdl"
+STATE="utd"
+TIME="1719014811"
+SIZE="3791"
+PARENT="<project>/component/work/blinky_sd/blinky_sd.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/MSS_barebones/MSS_barebones.cxf,actgen_cxf"
+STATE="utd"
+TIME="1719014628"
+SIZE="6495"
+ENDFILE
+VALUE "<project>/component/work/MSS_barebones/MSS_barebones.sdc,sdc"
+STATE="utd"
+TIME="1719014628"
+SIZE="84"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+BEGIN_USE_CONSTRAINT
+TOOL_CONSTRAINT_TYPE="ideSYNTHESIS"
+TOOL_CONSTRAINT_USE="SYNPLIFY7_EXT"
+END_USE_CONSTRAINT
+USE_FOR_ANY_TOOL="FALSE"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/MSS_barebones/MSS_barebones.v,hdl"
+STATE="utd"
+TIME="1719014628"
+SIZE="72075"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v,hdl"
+STATE="utd"
+TIME="1719014628"
+SIZE="222122"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465349"
+SIZE="8035"
+ENDFILE
+VALUE "<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v,hdl"
+STATE="utd"
+TIME="1717465349"
+SIZE="8381"
+PARENT="<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465349"
+SIZE="529"
+PARENT="<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.cxf"
+ENDFILE
+VALUE "<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v,hdl"
+STATE="utd"
+TIME="1717465349"
+SIZE="1717"
+PARENT="<project>/component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PF_CCC_C0/PF_CCC_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465310"
+SIZE="18193"
+ENDFILE
+VALUE "<project>/component/work/PF_CCC_C0/PF_CCC_C0.v,hdl"
+STATE="utd"
+TIME="1717465308"
+SIZE="9845"
+PARENT="<project>/component/work/PF_CCC_C0/PF_CCC_C0.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465308"
+SIZE="457"
+PARENT="<project>/component/work/PF_CCC_C0/PF_CCC_C0.cxf"
+ENDFILE
+VALUE "<project>/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v,hdl"
+STATE="utd"
+TIME="1717465308"
+SIZE="3760"
+PARENT="<project>/component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PF_OSC_C0/PF_OSC_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465012"
+SIZE="2371"
+ENDFILE
+VALUE "<project>/component/work/PF_OSC_C0/PF_OSC_C0.v,hdl"
+STATE="utd"
+TIME="1717465012"
+SIZE="2063"
+PARENT="<project>/component/work/PF_OSC_C0/PF_OSC_C0.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1717465012"
+SIZE="457"
+PARENT="<project>/component/work/PF_OSC_C0/PF_OSC_C0.cxf"
+ENDFILE
+VALUE "<project>/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v,hdl"
+STATE="utd"
+TIME="1717465012"
+SIZE="430"
+PARENT="<project>/component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>/constraint/blinky_sd_derived_constraints.sdc,sdc"
+STATE="utd"
+TIME="1719014821"
+SIZE="935"
+ENDFILE
+VALUE "<project>/constraint/io/user.pdc,io_pdc"
+STATE="utd"
+TIME="1719018717"
+SIZE="2796"
+IS_TARGET="TRUE"
+ENDFILE
+VALUE "<project>/hdl/blinky.v,hdl"
+STATE="utd"
+TIME="1717465907"
+SIZE="283"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1719014628"
+SIZE="812"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+STATE="utd"
+TIME="1717463978"
+SIZE="873"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1719014628"
+SIZE="812"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+STATE="utd"
+TIME="1717463978"
+SIZE="873"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+STATE="utd"
+TIME="1719014628"
+SIZE="774"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+STATE="utd"
+TIME="1717463978"
+SIZE="873"
+PARENT="<project>/component/work/MSS_barebones/MSS_barebones.cxf"
+ENDFILE
+VALUE "<project>/synthesis/blinky_sd.so,so"
+STATE="utd"
+TIME="1719014835"
+SIZE="270"
+ENDFILE
+VALUE "<project>/synthesis/blinky_sd.vm,syn_vm"
+STATE="ood"
+TIME="1719014834"
+SIZE="103540"
+ENDFILE
+VALUE "<project>/synthesis/blinky_sd_syn.prj,prj"
+STATE="utd"
+TIME="1719014835"
+SIZE="4509"
+ENDFILE
+VALUE "<project>/synthesis/blinky_sd_vm.sdc,syn_sdc"
+STATE="utd"
+TIME="1719014834"
+SIZE="1247"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "blinky_sd::work"
+FILE "<project>/component/work/blinky_sd/blinky_sd.v,hdl"
+LIST SynthesisConstraints
+VALUE "<project>/constraint/blinky_sd_derived_constraints.sdc,sdc"
+ENDLIST
+LIST TimingConstraints
+VALUE "<project>/constraint/blinky_sd_derived_constraints.sdc,sdc"
+ENDLIST
+LIST PNRConstraints
+VALUE "<project>/constraint/blinky_sd_derived_constraints.sdc,sdc"
+VALUE "<project>/constraint/io/user.pdc,io_pdc"
+ENDLIST
+ENDLIST
+LIST "MSS_barebones::work"
+FILE "<project>/component/work/MSS_barebones/MSS_barebones.v,hdl"
+LIST Other_Association
+VALUE "<project>/component/work/MSS_barebones/MSS_barebones.sdc,sdc"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+ENDLIST
+LIST Other_Association
+LIST MSS_barebones
+VALUE "<project>/component/work/MSS_barebones/MSS_barebones.sdc,sdc"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC0_user.bfm,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC1_user.bfm,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_compile_bfm.tcl,sim"
+VALUE "<project>/simulation/MSS_barebones_PFSOC_MSS_FIC3_user.bfm,sim"
+ENDLIST
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+SdfCorner=slow_lv_ht
+PliPath=/usr/local/microchip/Libero_SoC_v2024.1/Libero/lib/modelsimpro/pli/pf_crypto_lin_me_pli.so
+UseCustomPliPath=false
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+OnDemandBuildDH=TRUE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=TRUE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+AbortFlowOn3.3V_IO_ON=FALSE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="/usr/local/microchip/Libero_SoC_v2024.1/SynplifyPro/bin/synplify_pro"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME Pro"
+FUNCTION="Simulation"
+TOOL="ModelSim Pro Edition"
+LOCATION="/usr/local/microchip/Libero_SoC_v2024.1/ModelSimPro/linuxacoem/vsim"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="/usr/local/microchip/Libero_SoC_v2024.1/Identify/bin/identify_debugger"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Run Programming Action:blinky_sd_PROGRAM.log
+HDL;hdl/blinky.v;0
+Constraint Manager;Constraint Manager;0
+StartPage;StartPage;0
+SmartDesign;blinky_sd;0
+ACTIVEVIEW;Reports
+ENDLIST
+LIST ModuleSubBlockList
+LIST "blinky::work","hdl/blinky.v","FALSE","FALSE"
+ENDLIST
+LIST "blinky_sd::work","component/work/blinky_sd/blinky_sd.v","TRUE","FALSE"
+SUBBLOCK "MSS_barebones::work","component/work/MSS_barebones/MSS_barebones.v","TRUE","FALSE"
+SUBBLOCK "PFSOC_INIT_MONITOR_C0::work","component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_CCC_C0::work","component/work/PF_CCC_C0/PF_CCC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_OSC_C0::work","component/work/PF_OSC_C0/PF_OSC_C0.v","TRUE","FALSE"
+SUBBLOCK "blinky::work","hdl/blinky.v","FALSE","FALSE"
+ENDLIST
+LIST "MSS::work","component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "MSS_barebones::work","component/work/MSS_barebones/MSS_barebones.v","TRUE","FALSE"
+SUBBLOCK "MSS::work","component/work/MSS_barebones/MSS_BYP_BYP_BYP_BYP_BYP_syn_comps.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_CCC_C0::work","component/work/PF_CCC_C0/PF_CCC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_CCC_C0_PF_CCC_C0_0_PF_CCC::work","component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_CCC_C0_PF_CCC_C0_0_PF_CCC::work","component/work/PF_CCC_C0/PF_CCC_C0_0/PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_OSC_C0::work","component/work/PF_OSC_C0/PF_OSC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_OSC_C0_PF_OSC_C0_0_PF_OSC::work","component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_OSC_C0_PF_OSC_C0_0_PF_OSC::work","component/work/PF_OSC_C0/PF_OSC_C0_0/PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v","FALSE","FALSE"
+ENDLIST
+LIST "PFSOC_INIT_MONITOR_C0::work","component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0.v","TRUE","FALSE"
+SUBBLOCK "PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR::work","component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v","FALSE","FALSE"
+ENDLIST
+LIST "PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR::work","component/work/PFSOC_INIT_MONITOR_C0/PFSOC_INIT_MONITOR_C0_0/PFSOC_INIT_MONITOR_C0_PFSOC_INIT_MONITOR_C0_0_PFSOC_INIT_MONITOR.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+ENDLIST
+LIST IOTabList
+VALUE "constraint/io/user.pdc"
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+VALUE "constraint/blinky_sd_derived_constraints.sdc"
+VALUE "component/work/MSS_barebones/MSS_barebones.sdc"
+ENDLIST
+LIST FDCTabList
+ENDLIST
