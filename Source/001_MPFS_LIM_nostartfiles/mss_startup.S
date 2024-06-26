@@ -34,6 +34,8 @@ _start:
     li x29, 0
     li x30, 0
     li x31, 0
+    la sp, _STACK_END
+    la gp, _GP
 
 forever:
     beq s0, s0, forever
