@@ -14,4 +14,8 @@ U54 - RV64IMAFDC
 
 E51 - RV64IMAC
 
+### Linker script overview ###
+https://mcyoung.xyz/2021/06/01/linker-script/
 
+### RISCV Relaxation ###
+https://www.sifive.com/blog/all-aboard-part-3-linker-relaxation-in-riscv-toolchain
