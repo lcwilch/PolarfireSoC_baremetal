@@ -17,23 +17,23 @@ SECTIONS
     } > L2_LIM
     .data : ALIGN(0x10)
     {
-        *(.data)
+        *(.data, .data.*)
     } > L2_LIM
     .sdata : ALIGN(0x10)
     {
         /* crt0.o will use this symbol to init gp reg in _start */
         __global_pointer$ = . + 0x800;
-        *(.sdata)
+        *(.sdata, .sdata.*)
     }
     /* crt0.o needs bss start to be defined (start of unitialized sections) */
     __bss_start = .;
     .sbss : ALIGN(0x10)
     {
-        *(.sbss)
+        *(.sbss, .sbss.*)
     }
     .bss : ALIGN(0x10)
     {
-        *(.bss)
+        *(.bss, .bss.*)
     } > L2_LIM
     /* crt0.o needs _end to be defined as the end of the unitialized sections */
     _end = .;
