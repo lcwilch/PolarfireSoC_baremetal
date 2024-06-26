@@ -1,6 +1,11 @@
 int main(void)
 {
-    while (1);
+    volatile static char count = 1;
+
+    while (1)
+    {
+        count++;
+    }
 
     return 0;
 }

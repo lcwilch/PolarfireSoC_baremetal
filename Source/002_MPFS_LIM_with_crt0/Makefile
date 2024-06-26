@@ -2,9 +2,10 @@ OPT_LEVEL=-O3
 
 CC=riscv64-unknown-elf-gcc
 CFLAGS=-c -Wall $(OPT_LEVEL)
-LDFLAGS=-T LIM_main.ld 
+LDFLAGS=-T LIM_main.ld
 # -T xxx.ld specficies to use specific linker script, xxx.ld
 # -nostartfiles is necessary so multiple _start definitions do not occur (since we want to define our own)
+# -nostdlib prevent standard library from being included (which includes crt0)
 all:main.o LIM_main.elf
 
 main.o:main.c 
